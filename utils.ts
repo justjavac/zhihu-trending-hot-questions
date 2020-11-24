@@ -22,6 +22,7 @@ export async function createReadme(words: Question[]): Promise<string> {
 
 export function createList(words: Question[]): string {
   return `<!-- BEGIN -->
+<!-- 最后更新时间 ${Date()} -->
 ${
     words.map((x) => `1. [${x.title}](${x.url})`)
       .join("\n")
