@@ -8,6 +8,7 @@
 ## 相关项目
 
 - [知乎热搜榜](https://github.com/justjavac/zhihu-trending-top-search)
+- [知乎热门视频](https://github.com/justjavac/zhihu-trending-hot-video)
 
 ## 今日热门话题
 
