@@ -4,7 +4,7 @@ import { format } from "std/datetime/mod.ts";
 import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
-import type { HotList, Item, Question } from "./types.ts";
+import type { HotList, Question } from "./types.ts";
 import { createArchive, createReadme, mergeQuestions } from "./utils.ts";
 
 const response = await fetch(
