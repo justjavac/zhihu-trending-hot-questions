@@ -14,66 +14,82 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jun 09 2021 00:17:24 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jun 09 2021 01:43:47 GMT+0800 (China Standard Time) -->
 
-1. [如何看待考生将高考数学题拍照上传至搜题
-   APP，官方通报「监考人员存在失职，考生各科成绩被取消」？](https://www.zhihu.com/question/463826989)
-2. [湖北无线电管理部门回应考生上传试题为 5G 信号屏蔽漏洞，为什么 5G
-   信号无法完全屏蔽？如何防范？](https://www.zhihu.com/question/463853973)
-3. [2021
+1. [2021
    年高考福州一考点语文考试提前三分钟打铃并收卷，官方回应正处理，真实情况是怎样的？](https://www.zhihu.com/question/463603842)
-4. [「睾丸是和大脑最像的人体器官」这一结论有什么实际意义么？](https://www.zhihu.com/question/463156456)
-5. [如果一个外星人邀请你进行一周的宇宙旅行，但地球会过15年，你会接受还是拒绝？](https://www.zhihu.com/question/463336626)
-6. [衡水中学回应学霸演讲视频引发讨论，选择平庸该被非议吗？](https://www.zhihu.com/question/462967509)
-7. [《觉醒年代》圈粉的原因是什么？](https://www.zhihu.com/question/460648920)
-8. [6 月 7 日广东新增 19
-   例本土确诊，目前防疫情况如何？确诊病例还会有所增加吗？](https://www.zhihu.com/question/463806780)
-9. [工作 3 年和读研 3 年，会有哪些差距？您觉得哪个更值得？](https://www.zhihu.com/question/463621272)
-10. [老师常说的“没带就是没写”合理吗？](https://www.zhihu.com/question/457033055)
-11. [人的大脑相当于什么水平的 GPU 和 CPU ?](https://www.zhihu.com/question/404006982)
-12. [摘掉时代滤镜，王祖贤颜值放到现在内娱是什么水平？](https://www.zhihu.com/question/460820502)
-13. [芯片价格飙涨 5 倍，「缺芯」问题或将产生哪些影响？](https://www.zhihu.com/question/463574415)
-14. [网传大象逃离西双版纳或因森林被大面积砍伐种橡胶、茶树，真实情况如何？大象北迁的原因是什么？](https://www.zhihu.com/question/463575906)
-15. [坚持每天跑步五公里，两年后会有什么变化？](https://www.zhihu.com/question/418315082)
-16. [如何评价 2021 年 6
+2. [「睾丸是和大脑最像的人体器官」这一结论有什么实际意义么？](https://www.zhihu.com/question/463156456)
+3. [如果一个外星人邀请你进行一周的宇宙旅行，但地球会过15年，你会接受还是拒绝？](https://www.zhihu.com/question/463336626)
+4. [《觉醒年代》圈粉的原因是什么？](https://www.zhihu.com/question/460648920)
+5. [工作 3 年和读研 3 年，会有哪些差距？您觉得哪个更值得？](https://www.zhihu.com/question/463621272)
+6. [老师常说的“没带就是没写”合理吗？](https://www.zhihu.com/question/457033055)
+7. [坚持每天跑步五公里，两年后会有什么变化？](https://www.zhihu.com/question/418315082)
+8. [芯片价格飙涨 5 倍，「缺芯」问题或将产生哪些影响？](https://www.zhihu.com/question/463574415)
+9. [衡水中学回应学霸演讲视频引发讨论，选择平庸该被非议吗？](https://www.zhihu.com/question/462967509)
+10. [网传大象逃离西双版纳或因森林被大面积砍伐种橡胶、茶树，真实情况如何？大象北迁的原因是什么？](https://www.zhihu.com/question/463575906)
+11. [6 月 7 日广东新增 19
+    例本土确诊，目前防疫情况如何？确诊病例还会有所增加吗？](https://www.zhihu.com/question/463806780)
+12. [如何评价 2021 年 6
     月在中国大陆公映日本动画电影《普罗米亚》？](https://www.zhihu.com/question/462217273)
-17. [山东的女生真的普遍都很高吗？](https://www.zhihu.com/question/389402145)
-18. [该不该为了研究生学历选择一个冷门的专业考研？](https://www.zhihu.com/question/458850143)
-19. [妈妈让孩子洗碗抵饭钱，孩子认为家里应该对他免费，不能收饭钱。孩子和妈妈吵起来了，如何处理？](https://www.zhihu.com/question/463356821)
-20. [你听过最真实的毛骨悚然的故事是什么？](https://www.zhihu.com/question/458168131)
+13. [妈妈让孩子洗碗抵饭钱，孩子认为家里应该对他免费，不能收饭钱。孩子和妈妈吵起来了，如何处理？](https://www.zhihu.com/question/463356821)
+14. [你听过最真实的毛骨悚然的故事是什么？](https://www.zhihu.com/question/458168131)
+15. [该不该为了研究生学历选择一个冷门的专业考研？](https://www.zhihu.com/question/458850143)
+16. [人的大脑相当于什么水平的 GPU 和 CPU ?](https://www.zhihu.com/question/404006982)
+17. [摘掉时代滤镜，王祖贤颜值放到现在内娱是什么水平？](https://www.zhihu.com/question/460820502)
+18. [家里使用烘干机，真的能取消晾晒区吗？](https://www.zhihu.com/question/450607143)
+19. [王小波到底是什么样的存在？](https://www.zhihu.com/question/27333174)
+20. [买房时要避开哪些楼层？](https://www.zhihu.com/question/447920355)
 21. [高考正当时，南京大学招生宣传引争议，这一宣传方式是否妥当？](https://www.zhihu.com/question/463702038)
-22. [高中化学实验与工业流程题中的细节有哪些？](https://www.zhihu.com/question/383773565)
-23. [家里使用烘干机，真的能取消晾晒区吗？](https://www.zhihu.com/question/450607143)
-24. [考研目标已定，现在才开始复习，来得及吗？](https://www.zhihu.com/question/463136813)
-25. [买房时要避开哪些楼层？](https://www.zhihu.com/question/447920355)
-26. [有哪些送给准高一新生的建议？](https://www.zhihu.com/question/49779691)
-27. [如何以「我去和亲那年，只有十六岁」为开头，写一个虐中有甜的故事？](https://www.zhihu.com/question/437988845)
-28. [有哪些优美的句子值得推荐？](https://www.zhihu.com/question/459600599)
-29. [生孩子会影响夫妻关系吗？](https://www.zhihu.com/question/369792300)
-30. [智能化是否是国产汽车的逆袭之路？自主品牌与合资/国外品牌的竞争中，该如何破局？是否有差异化竞争路线？](https://www.zhihu.com/question/436854466)
+22. [如何以「我去和亲那年，只有十六岁」为开头，写一个虐中有甜的故事？](https://www.zhihu.com/question/437988845)
+23. [有哪些优美的句子值得推荐？](https://www.zhihu.com/question/459600599)
+24. [生孩子会影响夫妻关系吗？](https://www.zhihu.com/question/369792300)
+25. [有哪些送给准高一新生的建议？](https://www.zhihu.com/question/49779691)
+26. [高中化学实验与工业流程题中的细节有哪些？](https://www.zhihu.com/question/383773565)
+27. [考研目标已定，现在才开始复习，来得及吗？](https://www.zhihu.com/question/463136813)
+28. [目前为止你见过画质最震撼的PC游戏是什么？](https://www.zhihu.com/question/334549140)
+29. [智能化是否是国产汽车的逆袭之路？自主品牌与合资/国外品牌的竞争中，该如何破局？是否有差异化竞争路线？](https://www.zhihu.com/question/436854466)
+30. [2021 高考后推荐买什么样的手机？](https://www.zhihu.com/question/460386683)
 31. [有哪些文艺到爆炸的句子？](https://www.zhihu.com/question/308829198)
-32. [2021 高考后推荐买什么样的手机？](https://www.zhihu.com/question/460386683)
-33. [2021 年 618 买护肤品有哪些建议和推荐？](https://www.zhihu.com/question/397144646)
-34. [目前为止你见过画质最震撼的PC游戏是什么？](https://www.zhihu.com/question/334549140)
-35. [为什么有人考研花了大把的时间复习数学却依然考砸了？](https://www.zhihu.com/question/390760713)
-36. [高考场上发现考生作弊该不该告发?](https://www.zhihu.com/question/463567379)
-37. [2020 欧洲杯有哪些非常值得期待的地方？](https://www.zhihu.com/question/463813116)
-38. [如何评价EXO的特别专辑《DON'T FIGHT THE
+32. [2021 年 618 买护肤品有哪些建议和推荐？](https://www.zhihu.com/question/397144646)
+33. [异地恋一定要每个月见一次么？](https://www.zhihu.com/question/459310231)
+34. [开始断舍离之后，有什么物品是你不会再购买的？](https://www.zhihu.com/question/457895008)
+35. [高考后是否应该马上「对答案」？怎样科学「对答案」？对完后是一种怎样的心情？](https://www.zhihu.com/question/463614773)
+36. [玩股票要具备哪些基本知识？](https://www.zhihu.com/question/19807409)
+37. [《觉醒年代》可以为今年的高考作文题提供哪些素材？](https://www.zhihu.com/question/463608592)
+38. [NBA 2020-21 赛季太阳 122:105
+    掘金，如何评价这场比赛？](https://www.zhihu.com/question/463814681)
+39. [买哪种筋膜枪比较好？](https://www.zhihu.com/question/376327980)
+40. [如何评价EXO的特别专辑《DON'T FIGHT THE
     FEELING》及其MV？](https://www.zhihu.com/question/458831246)
-39. [2021 年 6 月 8 日 WWDC21 上发布的苹果 iPadOS 15
+41. [2021年618有什么特别的好物推荐？](https://www.zhihu.com/question/461478895)
+42. [假如把你的工作制作成一款游戏，你会如何设计它？](https://www.zhihu.com/question/462775862)
+43. [为什么有人考研花了大把的时间复习数学却依然考砸了？](https://www.zhihu.com/question/390760713)
+44. [成绩一般的高二学生该怎么学?](https://www.zhihu.com/question/463170914)
+45. [有哪些东西看似「跟家不沾边儿」，实际却是真家居神器？](https://www.zhihu.com/question/454606011)
+46. [在国内华为的鸿蒙系统能否在 10 年内替换 Windows
+    系统？](https://www.zhihu.com/question/462366986)
+47. [平心而论，《理想照耀中国》王俊凯的演技如何？他演的林鸣是个什么样的人？](https://www.zhihu.com/question/463762791)
+48. [托福 100+ 和雅思 7.5 哪个容易？](https://www.zhihu.com/question/26489793)
+49. [求职季来临，面试和入职需要做哪些准备？](https://www.zhihu.com/question/462924309)
+50. [《王者荣耀》里为什么排位总有人把把ban辅助？](https://www.zhihu.com/question/461168119)
+51. [如何看待考生将高考数学题拍照上传至搜题
+    APP，官方通报「监考人员存在失职，考生各科成绩被取消」？](https://www.zhihu.com/question/463826989)
+52. [湖北无线电管理部门回应考生上传试题为 5G 信号屏蔽漏洞，为什么 5G
+    信号无法完全屏蔽？如何防范？](https://www.zhihu.com/question/463853973)
+53. [山东的女生真的普遍都很高吗？](https://www.zhihu.com/question/389402145)
+54. [高考场上发现考生作弊该不该告发?](https://www.zhihu.com/question/463567379)
+55. [2020 欧洲杯有哪些非常值得期待的地方？](https://www.zhihu.com/question/463813116)
+56. [2021 年 6 月 8 日 WWDC21 上发布的苹果 iPadOS 15
     系统，有哪些新功能升级？](https://www.zhihu.com/question/463792155)
-40. [Kotlin语言现在怎么不火了?](https://www.zhihu.com/question/461471019)
-41. [有哪些适合30岁成熟男性的男装品牌？](https://www.zhihu.com/question/265777777)
-42. [异地恋一定要每个月见一次么？](https://www.zhihu.com/question/459310231)
-43. [刘亦菲、陈晓主演电视剧《梦华录》发布首支预告，透露了哪些信息？你有哪些期待？](https://www.zhihu.com/question/463707226)
-44. [玩股票要具备哪些基本知识？](https://www.zhihu.com/question/19807409)
-45. [用 steam 游戏平台的女生比较少吗，为什么？](https://www.zhihu.com/question/451787400)
-46. [《三国杀》中蜀国有神刘备，魏国有神曹操，为什么吴国没有神孙权？](https://www.zhihu.com/question/463422109)
-47. [怎么看待显卡里的等等党？](https://www.zhihu.com/question/448323212)
-48. [2021夏季赛揭幕战，the shy 缺席的 iG 2:1
+57. [Kotlin语言现在怎么不火了?](https://www.zhihu.com/question/461471019)
+58. [有哪些适合30岁成熟男性的男装品牌？](https://www.zhihu.com/question/265777777)
+59. [刘亦菲、陈晓主演电视剧《梦华录》发布首支预告，透露了哪些信息？你有哪些期待？](https://www.zhihu.com/question/463707226)
+60. [用 steam 游戏平台的女生比较少吗，为什么？](https://www.zhihu.com/question/451787400)
+61. [《三国杀》中蜀国有神刘备，魏国有神曹操，为什么吴国没有神孙权？](https://www.zhihu.com/question/463422109)
+62. [怎么看待显卡里的等等党？](https://www.zhihu.com/question/448323212)
+63. [2021夏季赛揭幕战，the shy 缺席的 iG 2:1
     SN，取得夏季赛开门红，怎么评价这局比赛？](https://www.zhihu.com/question/463714199)
-49. [从物理角度讲，时间停止有什么不合理之处?](https://www.zhihu.com/question/463532554)
-50. [有哪些东西看似「跟家不沾边儿」，实际却是真家居神器？](https://www.zhihu.com/question/454606011)
+64. [从物理角度讲，时间停止有什么不合理之处?](https://www.zhihu.com/question/463532554)
 
 <!-- END -->
 
