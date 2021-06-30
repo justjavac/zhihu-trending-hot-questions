@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Jul 01 2021 01:14:25 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Jul 01 2021 02:01:53 GMT+0800 (China Standard Time) -->
 
 1. [你经历的哪些真实故事，让你意识到「中国真的不一样了」？](https://www.zhihu.com/question/429896850)
 2. [百年来，哪些歌曲至今让你听了仍感到热血沸腾？](https://www.zhihu.com/question/455864364)
@@ -55,43 +55,46 @@
 31. [8 月 1 日起，高层民用建筑停放电动车最高可处以 1000
     元罚款，此举将会带来哪些改变？](https://www.zhihu.com/question/469014496)
 32. [有哪些你觉得在生孩子时应该知道，却没人告诉你的事？](https://www.zhihu.com/question/296368004)
-33. [“单休”和“双休”对你的生活造成了什么影响？](https://www.zhihu.com/question/464274735)
-34. [如何从零开始学会写歌？](https://www.zhihu.com/question/20437561)
-35. [放弃一个喜欢的人会有遗憾吗？](https://www.zhihu.com/question/467518860)
-36. [洗地机是智商税吗，和扫地机器人，吸尘器比，哪个更实用？](https://www.zhihu.com/question/418512921)
-37. [在家可以跟孩子做什么游戏？](https://www.zhihu.com/question/391201046)
-38. [有没有不错的专科学校推荐？](https://www.zhihu.com/question/286133002)
-39. [发现最好的朋友在背后说自己坏话，我该和她断绝来往吗？](https://www.zhihu.com/question/463316530)
-40. [如何看待三颗树发布公告：中国恒大应收票据逾期 4911.94
+33. [好多人说计算机二级证书没啥用，真的是这样吗？](https://www.zhihu.com/question/432050455)
+34. [以
+    他/她凶巴巴拦住我，「你说…跟我好，还作数吗？」为开头写一篇故事?](https://www.zhihu.com/question/468253321)
+35. [如何从零开始学会写歌？](https://www.zhihu.com/question/20437561)
+36. [放弃一个喜欢的人会有遗憾吗？](https://www.zhihu.com/question/467518860)
+37. [如何看待三颗树发布公告：中国恒大应收票据逾期 4911.94
     万元？](https://www.zhihu.com/question/468886248)
-41. [社保中断一个月有什么影响吗？](https://www.zhihu.com/question/304891093)
-42. [跟异性朋友出去玩，你发生过的最尴尬的事是什么？](https://www.zhihu.com/question/281832872)
-43. [如何放下一个你认真喜欢过的人？](https://www.zhihu.com/question/466673263)
-44. [《光与夜之恋》的齐司礼的毒舌属性真的到了令你不适的地步吗？](https://www.zhihu.com/question/468522825)
+38. [洗地机是智商税吗，和扫地机器人，吸尘器比，哪个更实用？](https://www.zhihu.com/question/418512921)
+39. [在家可以跟孩子做什么游戏？](https://www.zhihu.com/question/391201046)
+40. [有没有不错的专科学校推荐？](https://www.zhihu.com/question/286133002)
+41. [发现最好的朋友在背后说自己坏话，我该和她断绝来往吗？](https://www.zhihu.com/question/463316530)
+42. [“单休”和“双休”对你的生活造成了什么影响？](https://www.zhihu.com/question/464274735)
+43. [社保中断一个月有什么影响吗？](https://www.zhihu.com/question/304891093)
+44. [跟异性朋友出去玩，你发生过的最尴尬的事是什么？](https://www.zhihu.com/question/281832872)
 45. [如何评价大专生活？](https://www.zhihu.com/question/295193493)
-46. [《阴阳师》有哪些必须养的式神？](https://www.zhihu.com/question/311961456)
-47. [哪个瞬间你觉得读书和学历真的很重要?](https://www.zhihu.com/question/466797792)
-48. [如何评价《一拳超人》漫画 192 话？](https://www.zhihu.com/question/468006367)
+46. [如何放下一个你认真喜欢过的人？](https://www.zhihu.com/question/466673263)
+47. [《阴阳师》有哪些必须养的式神？](https://www.zhihu.com/question/311961456)
+48. [哪个瞬间你觉得读书和学历真的很重要?](https://www.zhihu.com/question/466797792)
 49. [为什么我健身一直以来都练不大，一般会是什么地方出了问题呢？](https://www.zhihu.com/question/461175616)
-50. [高考前夕你们都在干什么？](https://www.zhihu.com/question/463928370)
-51. [香港 7 月 1
+50. [如何评价《一拳超人》漫画 192 话？](https://www.zhihu.com/question/468006367)
+51. [《光与夜之恋》的齐司礼的毒舌属性真的到了令你不适的地步吗？](https://www.zhihu.com/question/468522825)
+52. [高考前夕你们都在干什么？](https://www.zhihu.com/question/463928370)
+53. [香港 7 月 1
     日起禁止所有英国载客航班抵港，对此你怎么看？英国疫情为何反弹？](https://www.zhihu.com/question/468775842)
-52. [你和你喜欢的那个人现在是什么关系?](https://www.zhihu.com/question/467896413)
-53. [在职场上，是不是35岁过后就很难再有竞争力了？](https://www.zhihu.com/question/468346955)
-54. [请问我目前的游戏原画水平可以去米哈游上班吗？](https://www.zhihu.com/question/441867303)
-55. [美国大楼倒塌事故已致 11 死 150
+54. [你和你喜欢的那个人现在是什么关系?](https://www.zhihu.com/question/467896413)
+55. [在职场上，是不是35岁过后就很难再有竞争力了？](https://www.zhihu.com/question/468346955)
+56. [请问我目前的游戏原画水平可以去米哈游上班吗？](https://www.zhihu.com/question/441867303)
+57. [美国大楼倒塌事故已致 11 死 150
     失踪，四天未发现一名幸存者，被质疑救援缓慢，暴露了哪些问题？](https://www.zhihu.com/question/468831412)
-56. [地理真的是一门多多刷题，背知识点就能提升的科目吗？地理大题多刷题就能提分吗？如何总结整理？](https://www.zhihu.com/question/458351725)
-57. [如何评价电视剧《变成你的那一天》大结局？](https://www.zhihu.com/question/468042255)
-58. [开车自驾1400公里是种什么样的体验？](https://www.zhihu.com/question/465961379)
-59. [高一选科已经选了化学，但是家长和我说高二化学会很难，生物会比较好学，心里很忐忑，怎么办呀？](https://www.zhihu.com/question/416822698)
-60. [可以分享一下你们一直很喜欢的歌吗？](https://www.zhihu.com/question/466865043)
-61. [如何评价《光与夜之恋》男主查理苏？](https://www.zhihu.com/question/466812225)
-62. [如何看待利拉德与球队关系越来越紧张？](https://www.zhihu.com/question/468425818)
-63. [当初那些选了文科的人有没有后悔？](https://www.zhihu.com/question/462661816)
-64. [有哪些有趣的科普类、生活类小知识或冷知识？](https://www.zhihu.com/question/41128601)
-65. [有什么失望至极或极度清醒的文案吗？](https://www.zhihu.com/question/465666518)
-66. [如何以「我原以为自己是女主……」为开头写一篇小故事？](https://www.zhihu.com/question/465978427)
+58. [地理真的是一门多多刷题，背知识点就能提升的科目吗？地理大题多刷题就能提分吗？如何总结整理？](https://www.zhihu.com/question/458351725)
+59. [如何评价电视剧《变成你的那一天》大结局？](https://www.zhihu.com/question/468042255)
+60. [开车自驾1400公里是种什么样的体验？](https://www.zhihu.com/question/465961379)
+61. [高一选科已经选了化学，但是家长和我说高二化学会很难，生物会比较好学，心里很忐忑，怎么办呀？](https://www.zhihu.com/question/416822698)
+62. [可以分享一下你们一直很喜欢的歌吗？](https://www.zhihu.com/question/466865043)
+63. [如何评价《光与夜之恋》男主查理苏？](https://www.zhihu.com/question/466812225)
+64. [如何看待利拉德与球队关系越来越紧张？](https://www.zhihu.com/question/468425818)
+65. [当初那些选了文科的人有没有后悔？](https://www.zhihu.com/question/462661816)
+66. [有哪些有趣的科普类、生活类小知识或冷知识？](https://www.zhihu.com/question/41128601)
+67. [有什么失望至极或极度清醒的文案吗？](https://www.zhihu.com/question/465666518)
+68. [如何以「我原以为自己是女主……」为开头写一篇小故事？](https://www.zhihu.com/question/465978427)
 
 <!-- END -->
 
