@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Jul 03 2021 06:01:53 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Jul 03 2021 07:01:35 GMT+0800 (China Standard Time) -->
 
 1. [庆祝中国共产党成立 100 周年大会 7 月 1
    日上午在北京天安门广场隆重举行，哪一幕让你印象深刻？](https://www.zhihu.com/question/469219832)
@@ -22,14 +22,14 @@
 3. [单机容量世界第一的白鹤滩水电站正式投产发电，具有哪些重大意义？该水电站的工程技术在世界上是什么水平？](https://www.zhihu.com/question/468406905)
 4. [为什么饭店里的鸡汤很清，而且还特别的好喝？](https://www.zhihu.com/question/437783371)
 5. [从《山海情》到《觉醒年代》，为什么年轻人开始爱看主旋律了？这些作品做对了什么？](https://www.zhihu.com/question/469250416)
-6. [为什么武磊在一个西乙联赛待了一年比在国内顶级联赛待的人意识和实力高出那么多？](https://www.zhihu.com/question/465328241)
-7. [6 月 23
+6. [《植物大战僵尸》里的矿工僵尸挖到最后一排，为什么不直接吃脑子而是往回走？](https://www.zhihu.com/question/389957504)
+7. [为什么武磊在一个西乙联赛待了一年比在国内顶级联赛待的人意识和实力高出那么多？](https://www.zhihu.com/question/465328241)
+8. [准大一美术生，接触板绘三年，画成这样子该如何改进和提升？](https://www.zhihu.com/question/468285218)
+9. [6 月 23
    日加拿大又一印第安寄宿学校旧址发现数百个无标记墓地，这对保护原住民人权意味着什么？](https://www.zhihu.com/question/466975825)
-8. [《植物大战僵尸》里的矿工僵尸挖到最后一排，为什么不直接吃脑子而是往回走？](https://www.zhihu.com/question/389957504)
-9. [阿里宣布组织架构升级，高德、本地生活和飞猪组成生活服务板块，有哪些影响值得关注？](https://www.zhihu.com/question/469485942)
 10. [全国 710 多万名党员获「光荣在党 50
     年纪念章」，你身边有获得奖章的人吗？他们身上又有哪些故事？](https://www.zhihu.com/question/469220759)
-11. [准大一美术生，接触板绘三年，画成这样子该如何改进和提升？](https://www.zhihu.com/question/468285218)
+11. [阿里宣布组织架构升级，高德、本地生活和飞猪组成生活服务板块，有哪些影响值得关注？](https://www.zhihu.com/question/469485942)
 12. [东京奥运男篮落选赛中国男篮 80:105
     不敌希腊无缘奥运，如何评价本场比赛？](https://www.zhihu.com/question/469450593)
 13. [2020 欧洲杯 1/4 决赛西班牙 1:1
@@ -45,27 +45,26 @@
     年还与网友互动，「哈维尔事件」有破绽吗？](https://www.zhihu.com/question/466675842)
 21. [如何看待北京市将启动学生暑期托管服务？会带来哪些影响？](https://www.zhihu.com/question/469489339)
 22. [孩子在学校被欺负了，我一直让她从自己身上找原因，别总是把责任推给别人有错吗？](https://www.zhihu.com/question/467309194)
-23. [如何评价7.1建党百年文艺晚会「他看见了」，你有什么想对他说的话吗？](https://www.zhihu.com/question/469413677)
+23. [为什么听到别人说重话就会忍不住委屈掉泪？怎么办？](https://www.zhihu.com/question/467737273)
 24. [100 年以来，你在哪些人或事上，看到了中国的「担当」？](https://www.zhihu.com/question/469083054)
-25. [为什么听到别人说重话就会忍不住委屈掉泪？怎么办？](https://www.zhihu.com/question/467737273)
-26. [量子力学老师提出了一个问题：为什么 Schrödinger 方程里有虚数 i
-    ？](https://www.zhihu.com/question/404030934)
-27. [有一个病娇喜欢你是什么感觉？](https://www.zhihu.com/question/377349806)
-28. [中国有哪些优秀的原创的绘本/图画书？](https://www.zhihu.com/question/54945285)
-29. [如何以“叫声哥哥，哥养你”为开头写一篇甜文?](https://www.zhihu.com/question/466162447)
-30. [90
+25. [有一个病娇喜欢你是什么感觉？](https://www.zhihu.com/question/377349806)
+26. [长得好看在职场上真的有优势吗？](https://www.zhihu.com/question/461972771)
+27. [如何以“叫声哥哥，哥养你”为开头写一篇甜文?](https://www.zhihu.com/question/466162447)
+28. [除去文笔等因素，你认为什么样的故事情节才算好？](https://www.zhihu.com/question/465057948)
+29. [前途和他，你选择哪一个？](https://www.zhihu.com/question/464912877)
+30. [如何看待美国房价创 30 多年最大涨幅，资深投资者发出泡沫警告?](https://www.zhihu.com/question/468992825)
+31. [90
     后小伙为高薪赴缅甸打工遭遇电信网络诈骗陷阱，找工作如何避免求职陷阱？](https://www.zhihu.com/question/468736941)
-31. [如何看待美国房价创 30 多年最大涨幅，资深投资者发出泡沫警告?](https://www.zhihu.com/question/468992825)
-32. [长得好看在职场上真的有优势吗？](https://www.zhihu.com/question/461972771)
-33. [前途和他，你选择哪一个？](https://www.zhihu.com/question/464912877)
-34. [分手让我特别的难受，有什么方法可以解决吗?](https://www.zhihu.com/question/468323222)
-35. [高三想学习了，还有希望吗？要从哪里开始学？](https://www.zhihu.com/question/468568060)
-36. [上了不好或者一般的高中，真的可以考上大学和有出路吗？](https://www.zhihu.com/question/467477103)
-37. [是不是中考考差了，就该放弃了？如果在高中努力学习，还有转机吗？](https://www.zhihu.com/question/468170373)
-38. [英雄联盟中最吵的英雄是谁？](https://www.zhihu.com/question/463184822)
-39. [如果甄嬛与眉庄说安陵容心狠的时候，安陵容听到后不是黯然离开，而是推门进去了，会怎么发展？](https://www.zhihu.com/question/467899688)
+32. [分手让我特别的难受，有什么方法可以解决吗?](https://www.zhihu.com/question/468323222)
+33. [高三想学习了，还有希望吗？要从哪里开始学？](https://www.zhihu.com/question/468568060)
+34. [上了不好或者一般的高中，真的可以考上大学和有出路吗？](https://www.zhihu.com/question/467477103)
+35. [是不是中考考差了，就该放弃了？如果在高中努力学习，还有转机吗？](https://www.zhihu.com/question/468170373)
+36. [中国有哪些优秀的原创的绘本/图画书？](https://www.zhihu.com/question/54945285)
+37. [如何评价7.1建党百年文艺晚会「他看见了」，你有什么想对他说的话吗？](https://www.zhihu.com/question/469413677)
+38. [三个月里每天都在跑步，可是肚子上赘肉还在，要怎么减？](https://www.zhihu.com/question/30622462)
+39. [英雄联盟中最吵的英雄是谁？](https://www.zhihu.com/question/463184822)
 40. [建党百年，我国在医药卫生领域取得了哪些成就？](https://www.zhihu.com/question/468756547)
-41. [三个月里每天都在跑步，可是肚子上赘肉还在，要怎么减？](https://www.zhihu.com/question/30622462)
+41. [如果甄嬛与眉庄说安陵容心狠的时候，安陵容听到后不是黯然离开，而是推门进去了，会怎么发展？](https://www.zhihu.com/question/467899688)
 42. [为什么英雄联盟中闪现的优先级这么高？如果让你设计一个这样具有创造力的召唤师技能，会是什么样的？](https://www.zhihu.com/question/462353798)
 43. [如何评价索尼中国致歉：取消 7 月 7
     日相关活动安排，日期的选择给大家造成了误解和困扰？](https://www.zhihu.com/question/469292670)
@@ -78,30 +77,32 @@
 48. [当年尤文 4 年 4.48 亿豪购 C 罗，现在来看是赚是亏？](https://www.zhihu.com/question/460546114)
 49. [高一学生如何进入年级前十?](https://www.zhihu.com/question/426078063)
 50. [一个专科生如何过好大学?](https://www.zhihu.com/question/465577553)
-51. [如何评价窦骁李沁主演的电视剧《海上繁花》？](https://www.zhihu.com/question/466748640)
-52. [NBA 2020-21 赛季东决雄鹿 123:112 老鹰，大比分 3:2
+51. [量子力学老师提出了一个问题：为什么 Schrödinger 方程里有虚数 i
+    ？](https://www.zhihu.com/question/404030934)
+52. [如何评价窦骁李沁主演的电视剧《海上繁花》？](https://www.zhihu.com/question/466748640)
+53. [NBA 2020-21 赛季东决雄鹿 123:112 老鹰，大比分 3:2
     领先，如何评价这场比赛？](https://www.zhihu.com/question/469442531)
-53. [苏州有哪些文化艺术活动让你印象深刻？](https://www.zhihu.com/question/468763984)
-54. [相亲有不成文的规矩吗?](https://www.zhihu.com/question/453068049)
-55. [是什么动力让你把一件事坚持下来的？](https://www.zhihu.com/question/469017080)
-56. [为什么有些人心智成熟的比较晚呢？](https://www.zhihu.com/question/283077831)
-57. [什么文案能让人惊鸿一瞥？](https://www.zhihu.com/question/451181423)
-58. [你心目中《觉醒年代》最可爱的人是谁？](https://www.zhihu.com/question/461358216)
-59. [哪个牌子的扫地机器人好用呢？](https://www.zhihu.com/question/278037886)
-60. [你心目中的大学食堂是什么样子的？你对自己的大学食堂满意吗？](https://www.zhihu.com/question/468413171)
-61. [2021 年上半年你拍过的最难忘的照片是什么，背后有什么故事？](https://www.zhihu.com/question/469312329)
-62. [如果让《原神》所有角色参加一场“吃鸡”，谁会成为最后的胜利者？](https://www.zhihu.com/question/467989699)
-63. [有哪些让你觉得「这是我尊贵的盐选会员该看的文」？](https://www.zhihu.com/question/469477579)
-64. [到目前为止最好看的网络小说有哪些?](https://www.zhihu.com/question/309401257)
-65. [继中公教育师资降低单课时绩效系数之后，又网传要降低师资一天课时量，大家怎么看？](https://www.zhihu.com/question/468896563)
-66. [如何评价2021年Graphinica改编的电视动画作品《终末的女武神》?](https://www.zhihu.com/question/464238824)
-67. [有口臭的人后来口臭好了是一种怎样的体验？](https://www.zhihu.com/question/39027318)
-68. [《叛逆者》中，蓝心洁和林楠笙之间的感情是爱情吗？](https://www.zhihu.com/question/468148621)
-69. [在东北石油大学读书是种怎样的体验?](https://www.zhihu.com/question/456776209)
-70. [有哪些宿舍条件好的二本大学值得推荐？](https://www.zhihu.com/question/405920733)
-71. [考研政治一般从几月份开始准备？](https://www.zhihu.com/question/378053241)
-72. [女生夏天穿无袖的衣服腋毛该如何处理？](https://www.zhihu.com/question/49147353)
-73. [iQOOneo5 使用体验如何？](https://www.zhihu.com/question/453142804)
+54. [苏州有哪些文化艺术活动让你印象深刻？](https://www.zhihu.com/question/468763984)
+55. [相亲有不成文的规矩吗?](https://www.zhihu.com/question/453068049)
+56. [是什么动力让你把一件事坚持下来的？](https://www.zhihu.com/question/469017080)
+57. [为什么有些人心智成熟的比较晚呢？](https://www.zhihu.com/question/283077831)
+58. [什么文案能让人惊鸿一瞥？](https://www.zhihu.com/question/451181423)
+59. [你心目中《觉醒年代》最可爱的人是谁？](https://www.zhihu.com/question/461358216)
+60. [哪个牌子的扫地机器人好用呢？](https://www.zhihu.com/question/278037886)
+61. [你心目中的大学食堂是什么样子的？你对自己的大学食堂满意吗？](https://www.zhihu.com/question/468413171)
+62. [2021 年上半年你拍过的最难忘的照片是什么，背后有什么故事？](https://www.zhihu.com/question/469312329)
+63. [如果让《原神》所有角色参加一场“吃鸡”，谁会成为最后的胜利者？](https://www.zhihu.com/question/467989699)
+64. [有哪些让你觉得「这是我尊贵的盐选会员该看的文」？](https://www.zhihu.com/question/469477579)
+65. [到目前为止最好看的网络小说有哪些?](https://www.zhihu.com/question/309401257)
+66. [继中公教育师资降低单课时绩效系数之后，又网传要降低师资一天课时量，大家怎么看？](https://www.zhihu.com/question/468896563)
+67. [如何评价2021年Graphinica改编的电视动画作品《终末的女武神》?](https://www.zhihu.com/question/464238824)
+68. [有口臭的人后来口臭好了是一种怎样的体验？](https://www.zhihu.com/question/39027318)
+69. [《叛逆者》中，蓝心洁和林楠笙之间的感情是爱情吗？](https://www.zhihu.com/question/468148621)
+70. [在东北石油大学读书是种怎样的体验?](https://www.zhihu.com/question/456776209)
+71. [有哪些宿舍条件好的二本大学值得推荐？](https://www.zhihu.com/question/405920733)
+72. [考研政治一般从几月份开始准备？](https://www.zhihu.com/question/378053241)
+73. [女生夏天穿无袖的衣服腋毛该如何处理？](https://www.zhihu.com/question/49147353)
+74. [iQOOneo5 使用体验如何？](https://www.zhihu.com/question/453142804)
 
 <!-- END -->
 
