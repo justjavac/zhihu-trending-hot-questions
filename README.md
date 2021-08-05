@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Aug 05 2021 10:15:28 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Aug 05 2021 11:02:03 GMT+0800 (China Standard Time) -->
 
 1. [如何看待东京奥运会上日本拳手田中亮明坐着轮椅晋级？](https://www.zhihu.com/question/477227909)
 1. [张怡宁为什么在巅峰期退役？](https://www.zhihu.com/question/31537950)
@@ -23,24 +23,29 @@
 1. [如何评价 2020 东京奥运会乒乓球男团半决赛德国 3:2
    淘汰日本，决赛将战中国？](https://www.zhihu.com/question/477294276)
 1. [为什么说吕小军是欧美健身圈的顶级流量？](https://www.zhihu.com/question/476674229)
-1. [如何看待苟仲文称「确保东京奥运会金牌榜和奖牌榜上保持在第一序列」？](https://www.zhihu.com/question/472315838)
 1. [井柏然、包贝尔、何炅方因网上的恶性造谣报警，发生了什么？有哪些细节值得关注？](https://www.zhihu.com/question/477113254)
-1. [日常扎双马尾出入学校，导致在全校出名怎么办 ？](https://www.zhihu.com/question/296691549)
+1. [如何看待苟仲文称「确保东京奥运会金牌榜和奖牌榜上保持在第一序列」？](https://www.zhihu.com/question/472315838)
 1. [单位领导总是以「你还没结婚，你还没成家，所以你多干活是应该的。」这种逻辑让我无偿工作，我该怎么拒绝？](https://www.zhihu.com/question/476431367)
 1. [如何看待奥运会男子拳击比赛日本选手赢了比赛后「躺轮椅吸氧」，而对手安然无恙？拳击比赛是怎么判谁赢的？](https://www.zhihu.com/question/477217875)
+1. [日常扎双马尾出入学校，导致在全校出名怎么办 ？](https://www.zhihu.com/question/296691549)
 1. [请问如何看待服役仅11年的濒海战斗舰独立号日前悄然退役？](https://www.zhihu.com/question/476961523)
 1. [有没有一本从电路开始讲然后汇编再到C语言的书？](https://www.zhihu.com/question/469693594)
 1. [辞职了领导说随时可以回来应该怎么委婉的回答呢？](https://www.zhihu.com/question/472247735)
+1. [如何评价 2020 东京奥运会田径男子 4x100 米接力预赛中国队小组第 1
+   晋级决赛？](https://www.zhihu.com/question/477409858)
 1. [8 月 3 日，张家界发布第 20
    号令「境内所有人员不得离张」，当地情况如何？](https://www.zhihu.com/question/476962947)
+1. [如何看待游戏工委表示「游戏不是洪水猛兽，能够帮助人们树立正确的价值观」？](https://www.zhihu.com/question/477252691)
 1. [如果世界末日了，我该准备哪些物资？](https://www.zhihu.com/question/367891519)
-1. [为什么动作类游戏越来越多加入体力值限制玩家的行动?](https://www.zhihu.com/question/476871052)
 1. [8 月 2 日河南新增本土确诊 2 例，无症状感染者 15
    例，目前情况如何？](https://www.zhihu.com/question/476883171)
-1. [如何看待游戏工委表示「游戏不是洪水猛兽，能够帮助人们树立正确的价值观」？](https://www.zhihu.com/question/477252691)
-1. [想问一下，还剩一年了，初三努力还来得及吗?](https://www.zhihu.com/question/477290523)
+1. [王者荣耀发布公告「禁止未满 12
+   周岁用户充值」，还有哪些信息值得关注？会对游戏行业产生哪些影响？](https://www.zhihu.com/question/477173752)
 1. [为什么，RNG跌倒之后，能一次又一次的爬起来?](https://www.zhihu.com/question/476079684)
+1. [想问一下，还剩一年了，初三努力还来得及吗?](https://www.zhihu.com/question/477290523)
+1. [为什么动作类游戏越来越多加入体力值限制玩家的行动?](https://www.zhihu.com/question/476871052)
 1. [工伤认定书下来了，可以要求用人单位赔偿了吗？](https://www.zhihu.com/question/442822724)
+1. [如果第一届奥运会的选手穿越到今天，会对会场上哪些科技感到震撼？](https://www.zhihu.com/question/473879903)
 1. [如何看待欧弟宣布离婚，称 「经过 6
    年多的磨合沟通，很遗憾两人没办法找到更好的相处之道」？](https://www.zhihu.com/question/477133411)
 1. [重庆一女子购法拍房与原住户老人发生纠纷，拿房产证一年进不了门，应如何处理？购买法拍房需注意什么？](https://www.zhihu.com/question/476747565)
@@ -51,26 +56,28 @@
    0V，会有什么后果，会怎样影响世界？](https://www.zhihu.com/question/476214691)
 1. [为什么大家对撒贝宁的凡尔赛充满包容？](https://www.zhihu.com/question/469878986)
 1. [青岛一司机接受酒驾检测时自称「加拿大人」，并要求交警开枪将其击毙，是出于什么心理？](https://www.zhihu.com/question/476648235)
-1. [2020东京奥运会男子跳高两个国家取得了共同冠军，这个有先例吗？以前有没有类似的情况呢？](https://www.zhihu.com/question/476561022)
 1. [如何评价东京奥运会跳远名将模仿《海贼王》路飞二档经典动作，随后夺金？](https://www.zhihu.com/question/477025522)
 1. [如何评价陈一冰在体操女子平衡木比赛的解说表现？](https://www.zhihu.com/question/477044006)
 1. [你认为南韩女爱豆颜值 top10 有哪些？](https://www.zhihu.com/question/476082553)
 1. [国产手机颜值越来越低，有没有什么高颜值手机推荐？](https://www.zhihu.com/question/466708376)
 1. [哔哩哔哩遭法院冻结 745
    余万元财产，发生了什么？还有哪些信息值得关注？](https://www.zhihu.com/question/477041153)
-1. [多国政党和社会组织向世卫组织提交《联合声明》反对将新冠溯源「政治化」，会带来哪些影响？](https://www.zhihu.com/question/476961654)
 1. [男朋友催我生小孩，说再等几年不生，跳槽和升职都难了，我该怎么办？](https://www.zhihu.com/question/476202688)
+1. [「中国美发美容协会美牙专业委员会」成立，为什么引起了一些牙医们的「炮轰」？](https://www.zhihu.com/question/476880464)
 1. [男性 35 岁颜值和 25 岁差别有多大？](https://www.zhihu.com/question/475217078)
+1. [2020东京奥运会男子跳高两个国家取得了共同冠军，这个有先例吗？以前有没有类似的情况呢？](https://www.zhihu.com/question/476561022)
 1. [目前来看，全球各国疫苗对德尔塔毒株的效果怎么样？](https://www.zhihu.com/question/475979669)
-1. [王者荣耀发布公告「禁止未满 12
-   周岁用户充值」，还有哪些信息值得关注？会对游戏行业产生哪些影响？](https://www.zhihu.com/question/477173752)
 1. [媒体称贵州一小区 10 条宠物狗疑被毒死，其中 8
    只被解剖，还有哪些信息值得关注？](https://www.zhihu.com/question/477031349)
-1. [如何看待哪吒汽车高管欲蹭热点邀请吴亦凡代言品牌，哪吒汽车官方连夜发声明开除相关人员？](https://www.zhihu.com/question/477140368)
-1. [被裁员是怎样的一种体验？](https://www.zhihu.com/question/27843346)
-1. [为什么现在仙侠剧越来越难看了？](https://www.zhihu.com/question/293435097)
 1. [小孩把牛奶当水喝有没有问题？](https://www.zhihu.com/question/471550032)
+1. [为什么现在仙侠剧越来越难看了？](https://www.zhihu.com/question/293435097)
+1. [如何看待哪吒汽车高管欲蹭热点邀请吴亦凡代言品牌，哪吒汽车官方连夜发声明开除相关人员？](https://www.zhihu.com/question/477140368)
 1. [做航空航天行业，真的像《你是我的荣耀》里那么难吗？](https://www.zhihu.com/question/476075671)
+1. [预算一千元，有哪些适合送给女友的七夕礼物？](https://www.zhihu.com/question/475065998)
+1. [留下让你心间一动的句子吧？](https://www.zhihu.com/question/473852771)
+1. [为什么离职的时候这么纠结？](https://www.zhihu.com/question/469478530)
+1. [多国政党和社会组织向世卫组织提交《联合声明》反对将新冠溯源「政治化」，会带来哪些影响？](https://www.zhihu.com/question/476961654)
+1. [被裁员是怎样的一种体验？](https://www.zhihu.com/question/27843346)
 1. [从高二开始努力学习还来得及吗？](https://www.zhihu.com/question/476171049)
 1. [不会写复杂的SQL，该怎么学习？](https://www.zhihu.com/question/327369469)
 1. [高中坐在最后一排对成绩有影响吗？](https://www.zhihu.com/question/473310764)
@@ -82,13 +89,11 @@
 1. [本科毕业生如何申请去日本留学？](https://www.zhihu.com/question/28912292)
 1. [床垫有什么好牌子推荐？](https://www.zhihu.com/question/23048312)
 1. [中国人现在能喝的牛奶，到底哪些品牌是真正的好牛奶？](https://www.zhihu.com/question/406534691)
-1. [留下让你心间一动的句子吧？](https://www.zhihu.com/question/473852771)
 1. [男生如何养成一张干干净净的脸？](https://www.zhihu.com/question/277842192)
 1. [有哪些东西是孕妇怀孕了一定要买的?](https://www.zhihu.com/question/357781178)
 1. [宋江和刘备谁的人格魅力更大？](https://www.zhihu.com/question/350631177)
 1. [你会在被拒绝后，依旧喜欢一个人很久吗?](https://www.zhihu.com/question/475846348)
 1. [女孩子发自拍的时候该怎么夸？](https://www.zhihu.com/question/355886047)
-1. [为什么离职的时候这么纠结？](https://www.zhihu.com/question/469478530)
 1. [如何看待任天堂回应 Switch
    OLED「烧屏」风险时称，用户可以采取预防措施来保护屏幕？](https://www.zhihu.com/question/476925105)
 1. [如何理解《盛夏未来》的那一个吻？](https://www.zhihu.com/question/476308636)
@@ -102,7 +107,6 @@
 1. [广西百色市德保县发生 4.8 级地震，当地情况如何？](https://www.zhihu.com/question/477303334)
 1. [孩子明明挺优秀，为什么家长却总说「他不行」？](https://www.zhihu.com/question/476802287)
 1. [如何看待「TCL诋毁海信激光电视被罚200万」，同业相仇到底有多严重？](https://www.zhihu.com/question/476977437)
-1. [预算一千元，有哪些适合送给女友的七夕礼物？](https://www.zhihu.com/question/475065998)
 1. [什么叫做建筑设计中的逻辑？](https://www.zhihu.com/question/316826671)
 1. [有哪些书可以推荐给学金融的？](https://www.zhihu.com/question/27187493)
 1. [中国运动员在东京湾水中训练后，后背发现多只黑色虫子，目前情况如何？会对运动员身体造成伤害吗？](https://www.zhihu.com/question/477026844)
