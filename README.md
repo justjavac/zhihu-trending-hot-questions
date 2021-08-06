@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 06 2021 15:01:38 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 06 2021 16:02:19 GMT+0800 (China Standard Time) -->
 
 1. [小S发文称：我不是「台独」，如何看待其对此前争议性言论的回应？](https://www.zhihu.com/question/477556108)
 1. [你怎么看奥运会全红婵（杏哥）小可爱？](https://www.zhihu.com/question/476072527)
@@ -24,58 +24,67 @@
 1. [如何看待全季酒店男子半夜赤身闯女顾客房间？](https://www.zhihu.com/question/477621186)
 1. [美媒称「印度拥有 13 亿人口，目前才拿 3
    枚奖牌」，如何看待此报道？](https://www.zhihu.com/question/477512978)
-1. [安徽一补课老师被踹门、掐脖，官方称违反防疫规定，无办学许可，可能会带来哪些影响？](https://www.zhihu.com/question/477680191)
 1. [上海最新通知规定小学期末不再考英语，严禁中小学月考，将带来什么影响？](https://www.zhihu.com/question/477576858)
-1. [中国奥运史含金量最高的奖牌是哪个？](https://www.zhihu.com/question/475991110)
+1. [如何看待 14 岁奥运冠军全红婵对游戏防沉迷认证感到为难，称「每天只能打 1
+   个小时」？](https://www.zhihu.com/question/477708632)
 1. [巴萨官宣梅西离队，作为球迷的你有什么想说的？如何评价梅西的巴萨生涯？](https://www.zhihu.com/question/477629601)
+1. [如何看待小 S 妈妈称小 S
+   心情很沮丧并且拜托厂商和网友不要封杀她？](https://www.zhihu.com/question/476899741)
 1. [字节跳动旗下大力教育大批量裁员，赔偿
    n+2，具体情况如何？被裁的员工将何去何从？](https://www.zhihu.com/question/477422286)
 1. [如果我在奥运会的每个项目都恰好能得第四名，绝对不可能拿奖牌，国家会派我参赛吗？](https://www.zhihu.com/question/476767853)
-1. [如何看待小 S 妈妈称小 S
-   心情很沮丧并且拜托厂商和网友不要封杀她？](https://www.zhihu.com/question/476899741)
-1. [如何评价黄晓明回应蹭表妹陈梦热度称「我高兴，我骄傲」？](https://www.zhihu.com/question/477131964)
-1. [如何看待 2022 年秋招算法岗人间地狱？](https://www.zhihu.com/question/453325429)
+1. [中国奥运史含金量最高的奖牌是哪个？](https://www.zhihu.com/question/475991110)
 1. [8 月 5 日江苏新增本土确诊 61 例，其中扬州 58
    例，目前情况如何？有哪些信息值得关注？](https://www.zhihu.com/question/477657725)
-1. [如何看待牙买加田径选手因认为自己「稳进决赛」，故意放慢冲刺导致出局？](https://www.zhihu.com/question/476938256)
 1. [如何看待小苍、Miss、JY、小智、7号等人近期集体更新经典栏目？](https://www.zhihu.com/question/477582527)
+1. [如何看待 2022 年秋招算法岗人间地狱？](https://www.zhihu.com/question/453325429)
 1. [如何看待韩国明年 1 月起最低月薪约为 10800 元人民币？](https://www.zhihu.com/question/477468660)
 1. [德尔塔病毒有什么特点？与 2020
    年年初的新冠病毒相比，有多大区别？](https://www.zhihu.com/question/476472028)
+1. [如何评价黄晓明回应蹭表妹陈梦热度称「我高兴，我骄傲」？](https://www.zhihu.com/question/477131964)
 1. [有哪些好喝的冲剂固体饮料？](https://www.zhihu.com/question/65141672)
+1. [如何看待牙买加田径选手因认为自己「稳进决赛」，故意放慢冲刺导致出局？](https://www.zhihu.com/question/476938256)
 1. [山西官方通报一交警「自称罚一次管三个月」，涉事民警已被停职调查，哪些信息值得关注？](https://www.zhihu.com/question/477152317)
-1. [如何看待 14 岁奥运冠军全红婵对游戏防沉迷认证感到为难，称「每天只能打 1
-   个小时」？](https://www.zhihu.com/question/477708632)
-1. [如何评价《一人之下》538（571）话？](https://www.zhihu.com/question/477523189)
 1. [有哪些对视力伤害很大的行为？](https://www.zhihu.com/question/384087324)
+1. [如何评价《一人之下》538（571）话？](https://www.zhihu.com/question/477523189)
+1. [8 月 6
+   日起郑州全市居民小区实行闭环管理，目前情况如何？还有哪些信息值得关注？](https://www.zhihu.com/question/477755117)
 1. [西安 82
    岁老人医院输错药后在等待转院途中离世，医护人员是否存在过失？医院需要承担哪些责任？](https://www.zhihu.com/question/476699366)
+1. [2022 年教师编是不是比今年更难？](https://www.zhihu.com/question/474990329)
 1. [如何评价 2020 东京奥运会男篮半决赛法国 90:89
    淘汰斯洛文尼亚，决赛将战美国？](https://www.zhihu.com/question/477555891)
-1. [2022 年教师编是不是比今年更难？](https://www.zhihu.com/question/474990329)
-1. [如何看待杀毒软件放弃弹窗广告？会影响其他功能使用吗？](https://www.zhihu.com/question/477444400)
-1. [如何看待官方回应「执法人员踹门查补课」，称现场有人违反防疫规定且拒不开门？](https://www.zhihu.com/question/477613781)
 1. [教育部要求秋季开学中高风险地区将暂缓开学，你还能如期返校吗？还有哪些信息值得关注？](https://www.zhihu.com/question/477502496)
 1. [如何看待稻妻怪物重量增加，温迪退环境的说法？](https://www.zhihu.com/question/473917939)
 1. [如何看待比亚迪将于 2022
    年第二季度向特斯拉供应「刀片电池」，目前配有该型电池的车型正在测试中？](https://www.zhihu.com/question/477544978)
-1. [有哪些适合腰细腿粗身材的裙子？](https://www.zhihu.com/question/451854465)
-1. [大理苍山景区女子坠百米悬崖幸挂树枝，户外旅游该如何有序发展减少风险？](https://www.zhihu.com/question/477425652)
 1. [两律师因涉寻衅滋事被盘锦警方采取强制措施，警方通报称系因网上散播虚假信息，有哪些信息值得关注？](https://www.zhihu.com/question/477620712)
+1. [有哪些适合腰细腿粗身材的裙子？](https://www.zhihu.com/question/451854465)
 1. [城市补充医疗险真的有必要买吗？对于普通市民来说具有怎样的意义？](https://www.zhihu.com/question/477494051)
 1. [怎样简单的考过科目一？](https://www.zhihu.com/question/295927949)
+1. [为什么三体人不派两个水滴，一个封锁太阳，一个杀逻辑？](https://www.zhihu.com/question/476146837)
 1. [有哪些一眼就惊艳到你的诗句？](https://www.zhihu.com/question/474702751)
+1. [据说最近显卡降价了，七夕节送给男朋友显卡是好的选择吗，有哪些推荐？](https://www.zhihu.com/question/475269724)
 1. [去好的实验班当中下好还是去普通班当第一好？](https://www.zhihu.com/question/477033362)
-1. [如何把房子装得更有高级感？](https://www.zhihu.com/question/460724070)
-1. [三十而立时对职场迷茫应该怎么办？](https://www.zhihu.com/question/476779138)
+1. [用科学解释魔法的话，魔法的原理是什么？](https://www.zhihu.com/question/26464304)
+1. [如何评价电影《师父》？](https://www.zhihu.com/question/37927520)
+1. [不会打扮，有什么方法能够变美？](https://www.zhihu.com/question/471700905)
 1. [肖战、杨紫主演的电视剧《余生请多指教》定档 9 月 8
    日，你觉得它的口碑会爆吗？](https://www.zhihu.com/question/391493007)
+1. [2021 年七月新番多已播出四五集，质量如何？有什么亮眼的地方？](https://www.zhihu.com/question/476932532)
+1. [如何把房子装得更有高级感？](https://www.zhihu.com/question/460724070)
 1. [如何看待杨倩夺冠后其小黄鸭发卡成爆款，有商家半天卖上万件？还有哪些值得关注的奥运会商机？](https://www.zhihu.com/question/475574318)
+1. [如何看待杀毒软件放弃弹窗广告？会影响其他功能使用吗？](https://www.zhihu.com/question/477444400)
+1. [如何看待娱乐圈何炅，范冰冰，井柏然，包贝尔等明星纷纷报警以证清白？](https://www.zhihu.com/question/477305071)
+1. [歌莉娅回应女士试衣间现摄像头，称「只有店主和经理有权查看，受总部监管」，还有哪些信息值得关注？](https://www.zhihu.com/question/477320116)
+1. [如何评价摩托罗拉 edge 系列手机？](https://www.zhihu.com/question/477439344)
+1. [安徽一补课老师被踹门、掐脖，官方称违反防疫规定，无办学许可，可能会带来哪些影响？](https://www.zhihu.com/question/477680191)
+1. [如何看待官方回应「执法人员踹门查补课」，称现场有人违反防疫规定且拒不开门？](https://www.zhihu.com/question/477613781)
+1. [大理苍山景区女子坠百米悬崖幸挂树枝，户外旅游该如何有序发展减少风险？](https://www.zhihu.com/question/477425652)
+1. [三十而立时对职场迷茫应该怎么办？](https://www.zhihu.com/question/476779138)
 1. [2021 LPL 夏季赛iG 1:2 RA，如何评价这场比赛？](https://www.zhihu.com/question/477573279)
 1. [大一新生怎么自我介绍比较好？](https://www.zhihu.com/question/64671360)
 1. [美媒称「奥运奖牌不再代表国家文化实力」，说明了什么？文化实力有哪些体现？](https://www.zhihu.com/question/477511503)
-1. [如何看待娱乐圈何炅，范冰冰，井柏然，包贝尔等明星纷纷报警以证清白？](https://www.zhihu.com/question/477305071)
-1. [歌莉娅回应女士试衣间现摄像头，称「只有店主和经理有权查看，受总部监管」，还有哪些信息值得关注？](https://www.zhihu.com/question/477320116)
 1. [看了周深的白T vlog，你有什么想说的?](https://www.zhihu.com/question/477381150)
 1. [夏天有什么好吃方便的开胃菜吗？](https://www.zhihu.com/question/471391608)
 1. [有什么水果味儿的香水推荐吗？](https://www.zhihu.com/question/473398793)
@@ -101,7 +110,6 @@
    ？](https://www.zhihu.com/question/477407026)
 1. [哪些古言你看过很多遍？](https://www.zhihu.com/question/434091917)
 1. [某男子摔死前女友 7 只小猫后又打人，该男子要承担什么法律责任？](https://www.zhihu.com/question/477524433)
-1. [如何评价摩托罗拉 edge 系列手机？](https://www.zhihu.com/question/477439344)
 1. [长期出差的你们，是如何优雅地生活？](https://www.zhihu.com/question/23125833)
 1. [2020 东京奥运乒乓球女团中国 3:0
    完胜日本夺冠，如何评价本场比赛？](https://www.zhihu.com/question/477548190)
