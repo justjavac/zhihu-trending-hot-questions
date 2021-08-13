@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Fri Aug 13 2021 12:02:50 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Fri Aug 13 2021 13:01:59 GMT+0800 (China Standard Time) -->
 
 1. [江西教师称「让扬州放弃严格防疫」被拘 15
    天，处罚结果是否合法合理？不当言论该如何界定？](https://www.zhihu.com/question/479240905)
@@ -22,67 +22,77 @@
    ，称「无条件支持员工拒绝劝酒」，会带来哪些改变？](https://www.zhihu.com/question/479288186)
 1. [东京奥运会英国 4x100
    米选手兴奋剂检测阳性被禁赛，中国队有望递补获得铜牌？](https://www.zhihu.com/question/479380610)
-1. [如何评价孙俪、赵又廷主演的电视剧《理想之城》？](https://www.zhihu.com/question/453135719)
+1. [开药时 1 片写成 7
+   片导致孩子中毒，院方称「确实写错，但家长应该有常识」，事故责任该如何界定？](https://www.zhihu.com/question/479240827)
 1. [湖北随县柳林镇遭遇极端强降雨，已致 21 人遇难，4
    人失联，目前救援工作进展如何？](https://www.zhihu.com/question/479380088)
 1. [8 月 12 日江苏新增新冠肺炎本土确诊病例 26 例，其中扬州 25
    例，目前防疫情况如何？](https://www.zhihu.com/question/479389775)
-1. [如何评价《一人之下》539（572）话？](https://www.zhihu.com/question/479291143)
 1. [如何看待华为 P50 Pro 开售就被抢购一空？](https://www.zhihu.com/question/479162894)
-1. [工信部发布意见：企业不得擅自升级新增汽车自动驾驶功能，会带来哪改变？](https://www.zhihu.com/question/479186205)
+1. [如何评价孙俪、赵又廷主演的电视剧《理想之城》？](https://www.zhihu.com/question/453135719)
 1. [送女朋友名创优品的口红可以吗？](https://www.zhihu.com/question/477564176)
-1. [开药时 1 片写成 7
-   片导致孩子中毒，院方称「确实写错，但家长应该有常识」，事故责任该如何界定？](https://www.zhihu.com/question/479240827)
-1. [游戏《原神》还能火多久？最高会火到什么程度？](https://www.zhihu.com/question/479072528)
-1. [装修多少钱预算比较合适？为什么看网上都是二三十万就搞定？](https://www.zhihu.com/question/441287480)
 1. [如何看待美国发现高致死率新冠变株，相比其他毒株最多提高82%？我们应如何防范？](https://www.zhihu.com/question/479123119)
-1. [如何看待 8 月 12 日发布的荣耀 Magic3
-   系列？有哪些亮点和不足？](https://www.zhihu.com/question/479154691)
-1. [张哲瀚被曝考上戏前曾私下见主考官，艺考考前见主考官是正常操作吗？](https://www.zhihu.com/question/479204348)
-1. [游戏《永劫无间》8 月 12 日全面开服，游戏体验如何？](https://www.zhihu.com/question/479024078)
-1. [如何评价综艺《披荆斩棘的哥哥》第一期？](https://www.zhihu.com/question/478851544)
-1. [有没有一个万能表情包可以回复所有问题？](https://www.zhihu.com/question/341311495)
+1. [为什么美国坐拥一流的公共卫生资源、全球领先医疗队伍和体系，疫情应对效果却堪称“灾难”？](https://www.zhihu.com/question/479198464)
+1. [装修多少钱预算比较合适？为什么看网上都是二三十万就搞定？](https://www.zhihu.com/question/441287480)
+1. [媒体报道称华尔街英语将破产，真实情况如何？还有哪些信息值得关注？](https://www.zhihu.com/question/479300703)
+1. [如何评价国风推理游戏《古镜记》？](https://www.zhihu.com/question/479155481)
+1. [游戏《原神》还能火多久？最高会火到什么程度？](https://www.zhihu.com/question/479072528)
+1. [荣耀X20的整体配置如何？作为一款「线下机」有哪些亮点和不足？](https://www.zhihu.com/question/478753235)
+1. [职场上的你，会选择大小周赚更多钱，还是选择五天制但薪资低？](https://www.zhihu.com/question/471202672)
+1. [2021七夕送什么礼物给女（男）朋友，有逼格还实用？](https://www.zhihu.com/question/476026984)
+1. [如何看待住建部征求意见，城市更新防止大拆大建，严禁建筑山寨行为？还有哪些值得关注的信息？](https://www.zhihu.com/question/478981443)
 1. [陈露再发长文，曝光霍尊不雅聊天记录、吐槽综艺节目等诸多截图，其中有哪些槽点？](https://www.zhihu.com/question/479240661)
-1. [如何看待意大利少女凡尔赛发言：住在城堡里其实很痛苦？你愿意长期住在这样「很美但很不方便」的房子里吗？](https://www.zhihu.com/question/478934011)
+1. [宠物墓地一平方米可达 4
+   万元，逼近京郊房价，经营方普遍不具备相关资质。你会给宠物购买墓地吗？](https://www.zhihu.com/question/479143139)
 1. [霍尊在音乐届成就如何，是否达到了自称的「以我今日的身份地位」？](https://www.zhihu.com/question/479242622)
-1. [考研政治大题平常不写而直接背答案可行吗？](https://www.zhihu.com/question/475779325)
-1. [天津特产除了包子和麻花还有什么可以推荐的？](https://www.zhihu.com/question/477695666)
+1. [看过《天道》这部电视剧吗？如何理解其中所阐述的文化属性？](https://www.zhihu.com/question/19559220)
+1. [工信部发布意见：企业不得擅自升级新增汽车自动驾驶功能，会带来哪改变？](https://www.zhihu.com/question/479186205)
 1. [霍尊聊天称「价格不错但《浪姐》类节目很
    low」，《披荆斩棘的哥哥》宣布霍尊退出录制，还会有哪些影响？](https://www.zhihu.com/question/479240755)
+1. [如何评价《一人之下》539（572）话？](https://www.zhihu.com/question/479291143)
+1. [张哲瀚被曝考上戏前曾私下见主考官，艺考考前见主考官是正常操作吗？](https://www.zhihu.com/question/479204348)
+1. [有没有一个万能表情包可以回复所有问题？](https://www.zhihu.com/question/341311495)
 1. [如何看待世卫组织称「若希腊字母不够用，新的新冠变异毒株或以星座命名」，新冠病毒毒株会无限制变异吗？](https://www.zhihu.com/question/478659210)
 1. [有房有车家庭因车祸众筹 400
    万，面对质疑家属回应「光明正大」，此事符合众筹标准吗？平台该做些什么？](https://www.zhihu.com/question/479185512)
-1. [为什么要珍惜带孩子的头三年？](https://www.zhihu.com/question/470839638)
-1. [如何评价小米平板 5 和小米平板 5 Pro？](https://www.zhihu.com/question/478816723)
 1. [如何评价 NVIDIA 宣布 4
    月发布会的内容，包括黄仁勋本身全都是数字合成而非实拍的？](https://www.zhihu.com/question/479214973)
-1. [如何看待华为P50 pro屏幕超越三星成全球第一？](https://www.zhihu.com/question/478901191)
 1. [如何看待经济学家称「不建议上班族炒股，真的很难赚到钱」？上班族买股票真的很难赚钱吗？](https://www.zhihu.com/question/479040751)
+1. [如何看待马龙的毛巾掉毛、比赛中满脸毛巾絮？什么样的毛巾掉毛少、不掉毛？](https://www.zhihu.com/question/478402023)
+1. [为什么要珍惜带孩子的头三年？](https://www.zhihu.com/question/470839638)
+1. [如何看待意大利少女凡尔赛发言：住在城堡里其实很痛苦？你愿意长期住在这样「很美但很不方便」的房子里吗？](https://www.zhihu.com/question/478934011)
+1. [如何看待 8 月 12 日发布的荣耀 Magic3
+   系列？有哪些亮点和不足？](https://www.zhihu.com/question/479154691)
+1. [如何看待奥运冠军终身免费玩欢乐谷？](https://www.zhihu.com/question/477862855)
+1. [游戏《永劫无间》8 月 12 日全面开服，游戏体验如何？](https://www.zhihu.com/question/479024078)
+1. [如何看待中国恒大称正在与第三方投资者探讨出售资产，意味着什么？还有哪些信息值得关注？](https://www.zhihu.com/question/478783146)
+1. [湖南「操场埋尸案」将被改编成电影《操场》，被害人家属称未经家属授权，其中涉及哪些法律问题？](https://www.zhihu.com/question/479150897)
+1. [如何看待华为P50 pro屏幕超越三星成全球第一？](https://www.zhihu.com/question/478901191)
+1. [为什么电商运营的离职率都很高？](https://www.zhihu.com/question/456735741)
+1. [如果你有一瓶永远也喝不完的矿泉水（农夫山泉，500ml），你会怎么做？](https://www.zhihu.com/question/474165365)
+1. [有哪些曾经被认为很高端但现在平民化的水果？](https://www.zhihu.com/question/476927465)
+1. [天津特产除了包子和麻花还有什么可以推荐的？](https://www.zhihu.com/question/477695666)
+1. [考研政治大题平常不写而直接背答案可行吗？](https://www.zhihu.com/question/475779325)
+1. [爸爸走路看手机，4
+   岁儿子被卷车底，司机负全责，如何解读这一事件？意外发生时家长看护责任如何界定？](https://www.zhihu.com/question/479186587)
+1. [如何评价综艺《披荆斩棘的哥哥》第一期？](https://www.zhihu.com/question/478851544)
+1. [有什么美得不可方物的壁纸？](https://www.zhihu.com/question/299205851)
+1. [如何看待广州 TTG4：1 南京 hero 久竞后，出现的关于 QGhappy
+   的节奏？](https://www.zhihu.com/question/479328954)
+1. [如何评价小米平板 5 和小米平板 5 Pro？](https://www.zhihu.com/question/478816723)
 1. [如何看待 4599 元起的荣耀 Magic3
    系列，这个定价策略如何？](https://www.zhihu.com/question/479327454)
-1. [为什么美国坐拥一流的公共卫生资源、全球领先医疗队伍和体系，疫情应对效果却堪称“灾难”？](https://www.zhihu.com/question/479198464)
-1. [如何看待马龙的毛巾掉毛、比赛中满脸毛巾絮？什么样的毛巾掉毛少、不掉毛？](https://www.zhihu.com/question/478402023)
 1. [甄嬛到底看上果郡王什么了？](https://www.zhihu.com/question/477830515)
 1. [你见过最高级的秀恩爱方式是什么？](https://www.zhihu.com/question/479158014)
-1. [如何看待奥运冠军终身免费玩欢乐谷？](https://www.zhihu.com/question/477862855)
 1. [年轻人得癌症是种怎样的体验？](https://www.zhihu.com/question/288301645)
 1. [2021 LPL 夏季季后赛 SN 2:3
    LNG，如何评价这场比赛？](https://www.zhihu.com/question/479254658)
 1. [哪一刻你觉得对方值得托付？](https://www.zhihu.com/question/478456029)
-1. [湖南「操场埋尸案」将被改编成电影《操场》，被害人家属称未经家属授权，其中涉及哪些法律问题？](https://www.zhihu.com/question/479150897)
 1. [家居生活中，有哪些容易被忽略，却又关乎健康的小事？](https://www.zhihu.com/question/474179544)
-1. [有哪些曾经被认为很高端但现在平民化的水果？](https://www.zhihu.com/question/476927465)
-1. [为什么电商运营的离职率都很高？](https://www.zhihu.com/question/456735741)
-1. [如果你有一瓶永远也喝不完的矿泉水（农夫山泉，500ml），你会怎么做？](https://www.zhihu.com/question/474165365)
 1. [一直单身一直爽是真的吗？](https://www.zhihu.com/question/330412814)
-1. [爸爸走路看手机，4
-   岁儿子被卷车底，司机负全责，如何解读这一事件？意外发生时家长看护责任如何界定？](https://www.zhihu.com/question/479186587)
-1. [有什么美得不可方物的壁纸？](https://www.zhihu.com/question/299205851)
 1. [如何看待美国秘密设施所在国家和地区屡屡出现怪病，美国为何要在全球建如此多的军事生物实验室？](https://www.zhihu.com/question/478392758)
 1. [阿富汗塔利班 6 天攻下 9
    省会，并逼近首都喀布尔，拜登称「不后悔撤军」，后续将如何发展？](https://www.zhihu.com/question/479012421)
-1. [如何看待广州 TTG4：1 南京 hero 久竞后，出现的关于 QGhappy
-   的节奏？](https://www.zhihu.com/question/479328954)
 1. [如何看待韩国 BigBang 前成员胜利因「经济犯罪、性暴力」等九项罪名获刑 3
    年，当庭被捕？](https://www.zhihu.com/question/479244117)
 1. [如何减肚子的肉？](https://www.zhihu.com/question/32457552)
