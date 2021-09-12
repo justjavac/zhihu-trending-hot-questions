@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Sep 12 2021 22:01:45 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Sep 12 2021 23:02:02 GMT+0800 (China Standard Time) -->
 
 1. [如何看待一男子用信用卡买杯奶茶将8元「错付」8000元，店家回应称「此人涉嫌用信用卡套现」？](https://www.zhihu.com/question/486048548)
 1. [北斗三号全球系统已提供七种服务，服务性能世界领先，这一成绩的取得有哪些意义？](https://www.zhihu.com/question/485681437)
@@ -25,30 +25,34 @@
    座目的地充电站，有哪些意义？](https://www.zhihu.com/question/485264189)
 1. [国家卫健委表示「11 日新增本土病例 20
    例，均在福建」，对本轮疫情防控有何影响？](https://www.zhihu.com/question/486313502)
-1. [如何看待华裔混血少女拉杜卡努，爆大冷10连胜夺得美网冠军？](https://www.zhihu.com/question/486306230)
 1. [深圳22岁女子玩飞鱼坠海身亡，家属称很多疑点，打捞时只剩内衣，具体情况怎样？为何网红娱乐项目事故频发？](https://www.zhihu.com/question/485980087)
 1. [如何评价导演小策最新作品《妇仇者联盟》:枪在手，跟鹅走？](https://www.zhihu.com/question/479670255)
+1. [如何看待华裔混血少女拉杜卡努，爆大冷10连胜夺得美网冠军？](https://www.zhihu.com/question/486306230)
 1. [2021 未来科学大奖授予袁国勇、裴伟士、张杰、施敏，单项奖金约 650
    万元，有哪些值得关注的亮点？](https://www.zhihu.com/question/486334167)
-1. [飞机上不打开飞行模式会被发现吗？](https://www.zhihu.com/question/448267257)
+1. [儿子沉迷游戏，与他讨论，他却说抽烟有害健康你还抽，该如何教育孩子？](https://www.zhihu.com/question/477388387)
 1. [国际奥委会禁止朝鲜参加北京冬奥会，因其未参加 2020
    东奥会，对此你怎么看？](https://www.zhihu.com/question/485714798)
 1. [陈道明再次痛批流量明星是「被炒作出来的塑料演员」，如何看待这一评价？](https://www.zhihu.com/question/486315305)
-1. [儿子沉迷游戏，与他讨论，他却说抽烟有害健康你还抽，该如何教育孩子？](https://www.zhihu.com/question/477388387)
-1. [iPhone 新品可以租了，大家怎么看？](https://www.zhihu.com/question/485934893)
+1. [飞机上不打开飞行模式会被发现吗？](https://www.zhihu.com/question/448267257)
 1. [莆田累计报告新冠病例 64 例，其中确诊病例 32 例、无症状感染者 32
    例，还有哪些信息值得关注？](https://www.zhihu.com/question/486395433)
-1. [《王者荣耀》里，「走开」两个字说出口对辅助玩家伤害有多大？](https://www.zhihu.com/question/478183100)
+1. [iPhone 新品可以租了，大家怎么看？](https://www.zhihu.com/question/485934893)
 1. [那些管理着数十亿资产的基金经理，如果不干基金经理，自己在家做交易，结果会是怎样的，会不会无法盈利？](https://www.zhihu.com/question/484337148)
+1. [《王者荣耀》里，「走开」两个字说出口对辅助玩家伤害有多大？](https://www.zhihu.com/question/478183100)
 1. [想辞职可是舍不得同事怎么办?](https://www.zhihu.com/question/484783428)
-1. [《战地5》目前22元值得入手吗？](https://www.zhihu.com/question/482899647)
 1. [分享一句你认为是人间清醒的句子?](https://www.zhihu.com/question/482509144)
 1. [从小养大的猫咪真的会把你当妈妈吗？](https://www.zhihu.com/question/469076953)
-1. [你认为买房对提升个人幸福感有哪些影响？](https://www.zhihu.com/question/485530702)
 1. [《知否知否应是绿肥红瘦》里墨兰的丈夫为什么不休掉她？](https://www.zhihu.com/question/429729214)
+1. [你认为买房对提升个人幸福感有哪些影响？](https://www.zhihu.com/question/485530702)
+1. [怎么才能让男友从不够喜欢自己到很爱自己？](https://www.zhihu.com/question/24325484)
+1. [《战地5》目前22元值得入手吗？](https://www.zhihu.com/question/482899647)
 1. [经常加班会被上级说没有工作效率，不加班会被说工作没有上进心，那究竟是应该加班还是不加班好呢？](https://www.zhihu.com/question/477146764)
+1. [Apple Pencil 的原理是什么？](https://www.zhihu.com/question/67483519)
 1. [你和你的王者CP是怎么认识的？](https://www.zhihu.com/question/465183546)
+1. [在最低谷的时候，你是怎么度过的？](https://www.zhihu.com/question/483969973)
 1. [如果您从事的工作让您感到不开心甚至做事的时候情绪波动大，您是否会换行业或者换工作？](https://www.zhihu.com/question/476138655)
+1. [专升本失败的专科生，身上都有哪些特点？](https://www.zhihu.com/question/392467845)
 1. [午睡过久会有什么危害吗？](https://www.zhihu.com/question/485433777)
 1. [桌面加湿器是智商税吗？](https://www.zhihu.com/question/302600715)
 1. [《海贼王》里，为什么总有人说大将就是四皇级的？](https://www.zhihu.com/question/484270574)
@@ -64,12 +68,12 @@
 1. [大家有什么推荐的必入的 Switch 游戏？](https://www.zhihu.com/question/484281318)
 1. [如何解读《咒怨》这部电影？这部电影单纯是为了吓人吗？](https://www.zhihu.com/question/273544185)
 1. [你会因为年龄到了而急着结婚吗？](https://www.zhihu.com/question/479513964)
-1. [三星堆有多大？为什么这么久还没有发掘完？](https://www.zhihu.com/question/450341787)
 1. [你收藏过哪些特别喜欢的经典句子？](https://www.zhihu.com/question/457542778)
-1. [重返曼联首秀梅开二度，如何评价 C 罗在曼联对阵纽卡比赛中的表现？](https://www.zhihu.com/question/486274003)
-1. [如果一个你曾经很喜欢但伤害过你的人，过了两年，突然回来找你，向你道歉，你会原谅他吗？](https://www.zhihu.com/question/483861139)
 1. [如何评价朱一龙在电影《峰爆》中的表现？](https://www.zhihu.com/question/486033215)
 1. [广义相对论到底有没有解释引力是从何而来的?](https://www.zhihu.com/question/484335004)
+1. [如果一个你曾经很喜欢但伤害过你的人，过了两年，突然回来找你，向你道歉，你会原谅他吗？](https://www.zhihu.com/question/483861139)
+1. [重返曼联首秀梅开二度，如何评价 C 罗在曼联对阵纽卡比赛中的表现？](https://www.zhihu.com/question/486274003)
+1. [三星堆有多大？为什么这么久还没有发掘完？](https://www.zhihu.com/question/450341787)
 1. [准备给即将上大学的侄子送一本书，选什么书好？](https://www.zhihu.com/question/484077115)
 1. [如何评价由朱一龙、黄志忠、陈数、焦俊艳主演的电影《峰爆》？](https://www.zhihu.com/question/456963116)
 1. [想问一下什么是API，具体是什么意思？](https://www.zhihu.com/question/38594466)
