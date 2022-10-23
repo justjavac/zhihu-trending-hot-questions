@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Oct 24 2022 04:07:31 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Oct 24 2022 05:06:35 GMT+0800 (China Standard Time) -->
 
 1. [独家视频丨二十届中共中央政治局常委同中外记者见面 习近平发表重要讲话](https://www.zhihu.com/question/576393815)
 1. [中共二十届一中全会公报](https://www.zhihu.com/question/576369497)
@@ -38,14 +38,15 @@
 1. [为什么大部分蓝色食物会使人食欲不振，但蓝莓不会?](https://www.zhihu.com/question/559756030)
 1. [河南一小伙菜地里建微型高铁，如何看待这一兴趣？可能会用到哪些知识或技术？](https://www.zhihu.com/question/414392047)
 1. [止疼片如何知道你到底哪里疼痛，布洛芬真是万能止痛药吗？你了解止疼片真正的服用注意事项吗？](https://www.zhihu.com/question/560450944)
-1. [M1 如此高的性能在 iPad 上究竟有什么用？](https://www.zhihu.com/question/559315283)
 1. [程序员为什么 35 岁左右就要淘汰呢？](https://www.zhihu.com/question/450919157)
+1. [M1 如此高的性能在 iPad 上究竟有什么用？](https://www.zhihu.com/question/559315283)
 1. [为什么看完小说后哪怕结局是 HE，也会莫名感到空虚失落？](https://www.zhihu.com/question/558789913)
+1. [把一盆水放在零下 50 度或更低温度的房间里，不停的搅拌，它会结冰吗？](https://www.zhihu.com/question/65836663)
 1. [大学期间考下哪些证书比较好？](https://www.zhihu.com/question/20078229)
 1. [乐高为什么无法仿制？](https://www.zhihu.com/question/35558370)
 1. [美国一空降师数千士兵部署至罗马尼亚，空降师指挥官称「已做好进入乌克兰的准备」，哪些信息值得关注？](https://www.zhihu.com/question/561603780)
-1. [2022 WTT澳门冠军赛男单决赛，王楚钦4:3樊振东，如何评价这场比赛？](https://www.zhihu.com/question/561708273)
 1. [如何看待梅德韦杰夫谈对国际局势 5 个看法，呼吁摒弃西方所谓「基于规则的秩序」？](https://www.zhihu.com/question/561677625)
+1. [2022 WTT澳门冠军赛男单决赛，王楚钦4:3樊振东，如何评价这场比赛？](https://www.zhihu.com/question/561708273)
 1. [欧洲车企为降低能源成本，考虑将生产线外迁，哪些信息值得关注？](https://www.zhihu.com/question/561604770)
 1. [CPU 处理器的核心数量为何不是越多越好？](https://www.zhihu.com/question/561062272)
 1. [中国航天「低价化」时代已来，实现低价化和可重复使用会带来哪些机会？普通人进入太空还远吗？](https://www.zhihu.com/question/558740017)
@@ -54,8 +55,8 @@
 1. [经历了什么事情，让你明白了人性的复杂？](https://www.zhihu.com/question/527865672)
 1. [为什么大雄的父母愿意养活哆啦 A 梦？](https://www.zhihu.com/question/545685021)
 1. [2022年cpa备考，如何计划?](https://www.zhihu.com/question/483197501)
-1. [为什么多数人类可以接受机械飞升，而不能接受基因改造？](https://www.zhihu.com/question/518322306)
 1. [屏蔽同事、已读不回……你介意同事朋友圈屏蔽你吗？你对「职场微信礼仪」介意吗？](https://www.zhihu.com/question/561246607)
+1. [为什么多数人类可以接受机械飞升，而不能接受基因改造？](https://www.zhihu.com/question/518322306)
 1. [马克龙批美搞「双重标准」，并称这关乎「跨大西洋贸易的诚意」，释放了哪些信息？](https://www.zhihu.com/question/561585722)
 1. [2022 年，作为程序员，最值得投入的技术有哪些？](https://www.zhihu.com/question/560939754)
 1. [天猫如果招聘历史人物给双 11 代言，你觉得谁能把攻略讲得最好玩有趣？](https://www.zhihu.com/question/561297782)
