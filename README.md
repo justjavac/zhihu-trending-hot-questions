@@ -14,7 +14,7 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Dec 07 2022 03:02:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Dec 07 2022 04:03:13 GMT+0800 (China Standard Time) -->
 
 1. [专家建议新冠阳性后，无基础疾病、症状微轻的中青年人不建议自行服药，等待自愈即可，哪些信息值得关注？](https://www.zhihu.com/question/570672532)
 1. [全国至少 48 市宣布大部分公共场所不再查核酸，多地不再常态化检测，个人如何做好防护？](https://www.zhihu.com/question/570665058)
@@ -32,14 +32,14 @@
 1. [世界杯16强：摩洛哥vs西班牙，怎么看？](https://www.zhihu.com/question/570709776)
 1. [多城市一边「非必要不核酸」一边大排长队，如何看待此现象？核酸检测暴利如何终结？](https://www.zhihu.com/question/570424664)
 1. [开个玩笑，大家炒股都亏了多少钱？](https://www.zhihu.com/question/515422370)
+1. [12 月 5 日北京本土新增「1163+3503」，其中社会面 414 例，目前疫情情况如何？](https://www.zhihu.com/question/570669949)
 1. [国内有类似ChatGPT能力的模型吗？](https://www.zhihu.com/question/570713548)
 1. [如何评价美国陆军选定贝尔V280倾转旋翼机作为黑鹰直升机替代机型？](https://www.zhihu.com/question/570736985)
-1. [全国多地不断优化疫情防控措施，旅游股全线飘红，机票预定翻倍增长，哪些信息值得关注？](https://www.zhihu.com/question/570715882)
 1. [亚洲球队无一晋级卡塔尔世界杯八强，如何评价他们在本届世界杯上的表现？](https://www.zhihu.com/question/570631051)
 1. [四川大学研发的重组新冠蛋白疫苗—威克欣获批紧急使用，将为全球新冠疫情预防控制带来哪些贡献和影响？](https://www.zhihu.com/question/570581209)
+1. [全国多地不断优化疫情防控措施，旅游股全线飘红，机票预定翻倍增长，哪些信息值得关注？](https://www.zhihu.com/question/570715882)
 1. [抗原试剂需求暴增，广州鼓励家庭自备，有药店连夜铺货，有券商预计年市场规模或超两千亿，哪些信息值得关注？](https://www.zhihu.com/question/570126549)
 1. [入冬了，有什么一想到就感觉热乎乎的食物？](https://www.zhihu.com/question/569834833)
-1. [同学聚会最悲哀的是什么？](https://www.zhihu.com/question/22636295)
 1. [如何评价 ChatGPT ？会取代搜索引擎吗？](https://www.zhihu.com/question/570062224)
 1. [清北复交等985院校的学生出国留学的优势是什么？](https://www.zhihu.com/question/20299462)
 1. [冬天不想做饭，有哪些一锅煮的菜品推荐！？](https://www.zhihu.com/question/425189049)
@@ -66,6 +66,7 @@
 1. [欧洲理事会主席米歇尔称「欧盟比美国更受俄乌冲突之苦，美国却只顾自己经济利益」，如何看待此番言论？](https://www.zhihu.com/question/570347304)
 1. [专家称，奥密克戎变异株导致肺炎或者重症、危重症的「比例相对较低」，有什么信息值得关注？](https://www.zhihu.com/question/570577434)
 1. [特朗普呼吁「终止」美国宪法，白宫谴责其「诅咒国家灵魂」，如何看待其表态？](https://www.zhihu.com/question/570489217)
+1. [同学聚会最悲哀的是什么？](https://www.zhihu.com/question/22636295)
 1. [我们看到的太阳光是百万年前产生的吗?](https://www.zhihu.com/question/53782859)
 1. [除了花还有哪些适合送女朋友的礼物？](https://www.zhihu.com/question/562712214)
 1. [别人在我身后说坏话，如何处理?](https://www.zhihu.com/question/563240775)
@@ -75,7 +76,6 @@
 1. [羽毛球掌握什么原理后让你球技大涨?](https://www.zhihu.com/question/515459299)
 1. [有什么值得分享的高效学习方法？](https://www.zhihu.com/question/336788338)
 1. [成绩和友谊哪个重要？](https://www.zhihu.com/question/570751624)
-1. [12 月 5 日北京本土新增「1163+3503」，其中社会面 414 例，目前疫情情况如何？](https://www.zhihu.com/question/570669949)
 1. [本田中国 11 月终端汽车销量为 78126 辆，如何评价这一销售成绩？](https://www.zhihu.com/question/570433435)
 1. [山东公共交通不查健康码、取消强制落地检首日，部分居民称「有点担心被传染」，应如何应对新的防疫政策？](https://www.zhihu.com/question/570594099)
 1. [在上班和创业中你会如何选择?](https://www.zhihu.com/question/570234271)
