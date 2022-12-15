@@ -83,7 +83,10 @@
     "url": "https://www.zhihu.com/question/568809008",
     "title": "如何看待胡锡进思考乌鲁木齐火灾，称「该市超长封控超过了民众承受力」？有哪些警示作用？"
   },
-  { "url": "https://www.zhihu.com/question/23612599", "title": "怎样才能考上教师编制？" },
+  {
+    "url": "https://www.zhihu.com/question/23612599",
+    "title": "怎样才能考上教师编制？"
+  },
   {
     "url": "https://www.zhihu.com/question/362988333",
     "title": "为什么我每天疯狂记单词，但仍然记不住，死背单词真的只是浪费时间吗？如何最快、最高效背单词？"
@@ -388,7 +391,10 @@
     "url": "https://www.zhihu.com/question/568555307",
     "title": "胡锡进称防疫的中国一定会实现生活正常化，要让民众对此有充分信心，如何看待此言论？"
   },
-  { "url": "https://www.zhihu.com/question/21684430", "title": "足球比赛为什么要有越位？" },
+  {
+    "url": "https://www.zhihu.com/question/21684430",
+    "title": "足球比赛为什么要有越位？"
+  },
   {
     "url": "https://www.zhihu.com/question/563502343",
     "title": "2023 年 2 月起，微软 Win10 系统将永久禁用 IE11 ，禁用的原因是什么？"
@@ -733,5 +739,8 @@
     "url": "https://www.zhihu.com/question/568432737",
     "title": "如何看待卡塔尔世界杯上亚洲球队频频爆冷逆袭？"
   },
-  { "url": "https://www.zhihu.com/question/566804613", "title": "你驾照考了几次?" }
+  {
+    "url": "https://www.zhihu.com/question/566804613",
+    "title": "你驾照考了几次?"
+  }
 ]
