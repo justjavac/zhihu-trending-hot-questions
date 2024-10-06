@@ -15,20 +15,25 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sun Oct 06 2024 18:06:58 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sun Oct 06 2024 19:02:47 GMT+0800 (China Standard Time) -->
 
-1. [《黑神话》取景地小西天被喊差评，该事件对其他旅游景区有哪些警示作用？](https://www.zhihu.com/question/735711071)
 1. [如何看待 2024 年国庆长假期间离岸人民币对美元大幅贬值？](https://www.zhihu.com/question/750043516)
 1. [王楚钦退出亚锦赛男双名单，称「以目前的状态去打球，对不起国家队的培养」，怎样看待他目前的实力和状态？](https://www.zhihu.com/question/757024555)
 1. [自助餐里真有饱腹剂的存在吗？](https://www.zhihu.com/question/722020631)
-1. [经济学家任泽平发文称「国庆后 A 股开盘即收盘」，靠谱吗？国庆之后市场走势会怎样？](https://www.zhihu.com/question/757766507)
+1. [《黑神话》取景地小西天被喊差评，该事件对其他旅游景区有哪些警示作用？](https://www.zhihu.com/question/735711071)
 1. [92 岁抗美援朝女兵实弹打靶 10 发 97 环，还是在一只眼睛看不见的情况下，这有多难？](https://www.zhihu.com/question/756505024)
-1. [已经有 Web 了，为什么国内还有各种小程序，快应用这种畸形的产物？](https://www.zhihu.com/question/725620450)
+1. [经济学家任泽平发文称「国庆后 A 股开盘即收盘」，靠谱吗？国庆之后市场走势会怎样？](https://www.zhihu.com/question/757766507)
+1. [你对于 2024 年诺贝尔生理学或医学奖的预测是什么？谁最有可能获奖？](https://www.zhihu.com/question/666086080)
 1. [想知道，除上班外，还有什么挣钱的副业可以做？](https://www.zhihu.com/question/752030329)
-1. [云南哀牢山国庆堵车，致车辆长龙，哀牢山到底什么来头？为何被称为「人类禁区」？](https://www.zhihu.com/question/749507297)
-1. [《西游记》小说里有哪些搞笑的情节？](https://www.zhihu.com/question/584437866)
-1. [为什么《知否》里，同嫁给伯爵府，墨兰不如华兰幸福呢？](https://www.zhihu.com/question/403569423)
+1. [小黄人讲的是什么语言？](https://www.zhihu.com/question/30830614)
+1. [《水浒传》扈三娘为什么不报仇？](https://www.zhihu.com/question/666600939)
+1. [孩子不喜欢听说别家孩子好话是什么心理？](https://www.zhihu.com/question/665845621)
 1. [《黑神话悟空》《艾尔登法环》怪物设计都很写实，为什么我玩《环》时恐怖恶心不适，玩黑猴时却完全不怕?](https://www.zhihu.com/question/666184626)
+1. [剧情过后，芙宁娜最后在民众心中是什么形象？](https://www.zhihu.com/question/649731443)
+1. [云南哀牢山国庆堵车，致车辆长龙，哀牢山到底什么来头？为何被称为「人类禁区」？](https://www.zhihu.com/question/749507297)
+1. [已经有 Web 了，为什么国内还有各种小程序，快应用这种畸形的产物？](https://www.zhihu.com/question/725620450)
+1. [为什么《知否》里，同嫁给伯爵府，墨兰不如华兰幸福呢？](https://www.zhihu.com/question/403569423)
+1. [《西游记》小说里有哪些搞笑的情节？](https://www.zhihu.com/question/584437866)
 1. [武松血溅鸳鸯楼时，张都监的手下为什么不来帮忙?](https://www.zhihu.com/question/701856462)
 1. [你从什么时候开始感觉孩子不属于你了？](https://www.zhihu.com/question/616205418)
 1. [乔丹带队夺冠的下限究竟有多高呢？](https://www.zhihu.com/question/667546509)
@@ -41,6 +46,7 @@
 1. [《原神》4.8海岛的剧情为什么不选班尼特当勇者?](https://www.zhihu.com/question/726815071)
 1. [女儿学习小组有个同学经常犯错导致连坐怎么办？](https://www.zhihu.com/question/684128240)
 1. [伦纳德速度不快，球风也不劲爆，为什么打球还那么厉害，他打球有什么技术特点？](https://www.zhihu.com/question/355435294)
+1. [游戏中的道德抉择在《冰汽时代2》中仍然存在，玩家如何在保证城市生存的前提下，尽量避免道德困境？](https://www.zhihu.com/question/667520650)
 1. [为什么中国一直缺少乐队文化？](https://www.zhihu.com/question/655793527)
 1. [2024 国庆档电影如果只能看一部电影的话，你会推荐哪部？](https://www.zhihu.com/question/702547137)
 1. [佩图拉博到底有没有资格说脏活累活都是他干，任劳任怨却没有得到应有的重视?](https://www.zhihu.com/question/745296428)
@@ -53,7 +59,6 @@
 1. [《黑神话:悟空》这款游戏中哪个角色的刻画颠覆了你的想象？](https://www.zhihu.com/question/664947715)
 1. [《黑神话：悟空》中有哪些乍一看没什么，细想想却很可悲的设定？](https://www.zhihu.com/question/664773974)
 1. [游戏或者游戏引擎里的光也是30万千米每秒吗？](https://www.zhihu.com/question/667673463)
-1. [游戏中的道德抉择在《冰汽时代2》中仍然存在，玩家如何在保证城市生存的前提下，尽量避免道德困境？](https://www.zhihu.com/question/667520650)
 1. [24-25 赛季英超第7轮阿森纳 3:1 南安普顿，如何评价这场比赛？](https://www.zhihu.com/question/751645186)
 1. [美联储报告称亏损已破 2000 亿美元，美联储为何巨亏？2024 年还会大幅降息吗？](https://www.zhihu.com/question/747839098)
 1. [如果给《黑神话：悟空》加上qte、处决动画和一些解谜关卡，会不会让游戏变得更好玩？](https://www.zhihu.com/question/665629378)
