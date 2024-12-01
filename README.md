@@ -15,13 +15,14 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Mon Dec 02 2024 04:08:00 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Mon Dec 02 2024 05:06:43 GMT+0800 (China Standard Time) -->
 
 1. [顾客 1 万买巴黎世家衣服 8 天后被要求补差价，柜姐称折扣取消了，这合理吗？消费者该如何维权？](https://www.zhihu.com/question/5482596534)
 1. [如何看待在靖国神社涂鸦的男子被日本公审？](https://www.zhihu.com/question/5560846221)
 1. [如何看待 17 岁中专生被六七家企业高薪疯抢，释放了什么信号？未来技能会比学历更抢手吗？](https://www.zhihu.com/question/5657827303)
 1. [一个月内两次上调，杭州首套房贷利率涨至3.1%，全国多城房贷利率已上涨，反映了什么？](https://www.zhihu.com/question/5646321105)
 1. [如何看待周冠宇在2024F1卡塔尔大奖赛正赛获得第八和最佳车手?](https://www.zhihu.com/question/5681621523)
+1. [24-25 赛季英超英超第13轮利物浦 2:0 曼城，如何评价这场比赛？](https://www.zhihu.com/question/5679418018)
 1. [各类存款产品利率继续下行，「揽储利器」大额存单利率也进入 1 字头，未来走势如何？投资者该如何布局？](https://www.zhihu.com/question/5352741574)
 1. [詹姆斯季后赛+常规赛出场次数升至历史第一，有什么让你印象深刻的场面?](https://www.zhihu.com/question/5561493592)
 1. [自卑者，如何释怀?](https://www.zhihu.com/question/5465529936)
