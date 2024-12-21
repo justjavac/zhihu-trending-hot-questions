@@ -15,27 +15,38 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Sat Dec 21 2024 11:10:46 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Sat Dec 21 2024 12:08:57 GMT+0800 (China Standard Time) -->
 
 1. [贵州一男子开跑车进学校操场玩漂移，学校要求赔偿几十万，这个赔偿合理吗？为什么？](https://www.zhihu.com/question/7374254790)
 1. [女子在黑龙江雪乡玩「泼水成冰」失误致二级烫伤，这种玩法需要哪些条件？背后有什么科学原理？](https://www.zhihu.com/question/7293820415)
+1. [《封神第二部》发布「大战将至」预告片，你能从中获取哪些信息？如何评价这个预告？](https://www.zhihu.com/question/7171964522)
 1. [“四顾剑”意思是顾前不顾后，顾左不顾右，那为啥不叫“二顾剑”？](https://www.zhihu.com/question/3132981321)
-1. [黄仁勋最新发布的 249 美元生成式 AI 超级电脑是什么？](https://www.zhihu.com/question/7214467202)
-1. [2024 年你印象最深刻的一次访古经历是什么？](https://www.zhihu.com/question/6997439097)
-1. [问界 M 7 交通事故鉴定机构被行政处罚 30000 元，此次事件对交通事故鉴定行业有何启示？](https://www.zhihu.com/question/7358036372)
-1. [夏侯玄为何在高平陵之变后不起兵，也不跑路，回去束手待毙？](https://www.zhihu.com/question/7270912487)
-1. [永辉超市被胖东来调改后爆火，胖东来模式的本质是什么？2025 年会有更多「胖东来」出现吗？](https://www.zhihu.com/question/7402425495)
-1. [为什么 2009 年的电视剧《潜伏》会在 2024 突然又爆火起来？](https://www.zhihu.com/question/7134751776)
 1. [2025 年考研初试开考，300 多万考生冬至日走进考场，有什么想要对考研人说的？](https://www.zhihu.com/question/6907882803)
+1. [黄仁勋最新发布的 249 美元生成式 AI 超级电脑是什么？](https://www.zhihu.com/question/7214467202)
+1. [问界 M 7 交通事故鉴定机构被行政处罚 30000 元，此次事件对交通事故鉴定行业有何启示？](https://www.zhihu.com/question/7358036372)
+1. [永辉超市被胖东来调改后爆火，胖东来模式的本质是什么？2025 年会有更多「胖东来」出现吗？](https://www.zhihu.com/question/7402425495)
+1. [如何看待新发布的Genesis物理引擎？](https://www.zhihu.com/question/7298117178)
+1. [夏侯玄为何在高平陵之变后不起兵，也不跑路，回去束手待毙？](https://www.zhihu.com/question/7270912487)
 1. [法航母打击群 40 年来首次部署亚太，这次部署对法国在国际军事舞台上的地位有何影响？](https://www.zhihu.com/question/7298000467)
-1. [从心理学角度看，社交需求是否存在利益驱动？](https://www.zhihu.com/question/7162909730)
+1. [为什么 2009 年的电视剧《潜伏》会在 2024 突然又爆火起来？](https://www.zhihu.com/question/7134751776)
 1. [《绝区零》1.4版本星流霆击剧情中大家都发现了什么细思极恐的细节吗？](https://www.zhihu.com/question/7243149272)
 1. [电视剧《天道》里的强/弱势文化论，是属于本质还是表面的论述层次呢？](https://www.zhihu.com/question/418694324)
+1. [是否应该让孩子超前学习？](https://www.zhihu.com/question/410326125)
+1. [你会拿自己的孩子跟别人口中的孩子对比吗？](https://www.zhihu.com/question/7312586428)
+1. [动物咬住幼崽后颈就会停止乱动，进入搬运模式，人类幼仔有同样的效果吗？](https://www.zhihu.com/question/4156747225)
+1. [2024 年你印象最深刻的一次访古经历是什么？](https://www.zhihu.com/question/6997439097)
 1. [戚继光的晚年有多凄惨？](https://www.zhihu.com/question/496527412)
+1. [赵姬造反，为什么秦始皇不砍了她？](https://www.zhihu.com/question/640452537)
+1. [从心理学角度看，社交需求是否存在利益驱动？](https://www.zhihu.com/question/7162909730)
 1. [如何看待 OpenAI 最新发布的 o3 模型？有多强大？](https://www.zhihu.com/question/7416922570)
 1. [一个演员年轻时候演了一个很经典的角色，是否会因为时间阅历等因素，很多年后无法演出当年那个味道？](https://www.zhihu.com/question/537784125)
 1. [普京举行年度记者会，称俄愿在乌克兰问题上妥协，如何看待这一表态？俄乌冲突 2025 年会结束吗？](https://www.zhihu.com/question/7347543751)
 1. [回顾一年的亲子时光，你的 2024 年养育关键词是什么？](https://www.zhihu.com/question/6561296096)
+1. [游戏史上有哪些著名的平衡性事故？](https://www.zhihu.com/question/4307215276)
+1. [为什么几千只能蜇死人的虎头蜂，眼睁睁看着一只鸟撕裂它们的蜂巢？](https://www.zhihu.com/question/634452558)
+1. [百草味吐司发霉致孕妈住院事件反转，消费者致歉承认发布内容是伪造，此事影响有多大？造谣者是否要承担责任？](https://www.zhihu.com/question/7098096919)
+1. [家长如何鼓励被优绩主义击垮的孩子重新找回生活的乐趣？](https://www.zhihu.com/question/6930509750)
+1. [磷酸铁锂默认要求充满校准，会不会鼓包概率也大于三元锂了？](https://www.zhihu.com/question/611215988)
 1. [李亚鹏进军白酒行业，对此你如何评价？](https://www.zhihu.com/question/7062461362)
 1. [统计局数据显示，前 11 月新建商品房销售额 85125 亿元，同比下降 19.2%，有哪些影响因素？](https://www.zhihu.com/question/6982952605)
 1. [保时捷中国 CEO 称「两年后赢回中国」，如何看待此言论？](https://www.zhihu.com/question/7109065016)
@@ -100,7 +111,6 @@
 1. [我们身边有哪些入侵物种？](https://www.zhihu.com/question/666386076)
 1. [《西游记》中灵感大王吃了那么多小孩，观音为什么没有处决他？](https://www.zhihu.com/question/561283075)
 1. [拉什福德2023年续约后状态低迷并逐渐失去主力地位，你认为他该不该离开曼联？](https://www.zhihu.com/question/7280614819)
-1. [磷酸铁锂默认要求充满校准，会不会鼓包概率也大于三元锂了？](https://www.zhihu.com/question/611215988)
 
 <!-- END -->
 
