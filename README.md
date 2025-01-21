@@ -15,18 +15,18 @@
 ## 今日热门话题
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Wed Jan 22 2025 04:08:12 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Wed Jan 22 2025 05:06:56 GMT+0800 (China Standard Time) -->
 
 1. [铁路 12306 称未与任何第三方平台合作，加钱抢票无实际效果，用户为何仍愿意购买「加速包」？](https://www.zhihu.com/question/10097555559)
-1. [Riot 宣布将重新上架「消防队员」崔丝塔娜皮肤收益用于支援加州山火，对此你有什么想说的？](https://www.zhihu.com/question/10072457808)
 1. [广东省可以刷医保个人账户买华为手表，这合理吗？会对智能穿戴设备行业和医疗行业产生哪些影响？](https://www.zhihu.com/question/10093912312)
+1. [Riot 宣布将重新上架「消防队员」崔丝塔娜皮肤收益用于支援加州山火，对此你有什么想说的？](https://www.zhihu.com/question/10072457808)
 1. [国补 1 月 20 日上线，苹果等多款手机集体降至 6000 元以内，会对手机市场带来怎样的影响？](https://www.zhihu.com/question/9994276197)
 1. [中央美术学院 2 名干部被查，1 人系主动投案，哪些信息值得关注？](https://www.zhihu.com/question/9668151490)
 1. [利用现有的 AI 技术，独立游戏开发者的黄金时代是否已经到来？](https://www.zhihu.com/question/9068041309)
 1. [没人觉得第三产业就是个大泡沫吗，服务业创造了什么价值?](https://www.zhihu.com/question/404407191)
 1. [游戏《真三国无双起源》最让你崩溃的是什么时刻？](https://www.zhihu.com/question/9668628020)
-1. [特朗普签署行政令宣布美国退出世界卫生组织，该决定会带来哪些影响？如何看待美国接连「退群」的举动?](https://www.zhihu.com/question/10155728678)
 1. [如何评价「MyGO!!!!!」主唱高松灯?](https://www.zhihu.com/question/10197799678)
+1. [特朗普签署行政令宣布美国退出世界卫生组织，该决定会带来哪些影响？如何看待美国接连「退群」的举动?](https://www.zhihu.com/question/10155728678)
 1. [如何过的像一个魏晋时代的门阀士族？](https://www.zhihu.com/question/7602771294)
 1. [交易中有人认为越跌越买，有的人则是止损，到底哪个正确呢？](https://www.zhihu.com/question/7124434348)
 1. [爱喝咖啡的你，选豆还是粉，选豆是不是显得自己更有品味？](https://www.zhihu.com/question/9544679724)
