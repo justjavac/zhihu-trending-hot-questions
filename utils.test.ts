@@ -1,5 +1,4 @@
-#!/usr/bin/env -S deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json
-import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
+import { assertEquals, assertStringIncludes } from "@std/assert";
 import type { Question } from "./types.ts";
 
 import {

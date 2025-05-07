@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Install deno
-        uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@v2
 
       - name: Run deno
         run: |
@@ -24,7 +24,7 @@ jobs:
           git config --local user.name "bot"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          deno run --unstable --allow-net --allow-read --allow-write --import-map=import_map.json mod.ts
+          deno task start
           deno fmt
           git add .
           git commit -m "update by github action"

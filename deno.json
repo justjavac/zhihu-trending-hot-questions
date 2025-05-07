@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "start": "deno run -A main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@^1.0.13",
+    "@std/datetime": "jsr:@std/datetime@^0.225.4",
+    "@std/fs": "jsr:@std/fs@^1.0.17",
+    "@std/path": "jsr:@std/path@^1.0.9"
+  }
+}
